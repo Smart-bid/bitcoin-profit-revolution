@@ -1,0 +1,167 @@
+.card {
+    padding: 1rem 1rem 0 1rem;
+    border-radius: 0;
+    border: none;
+    margin-top: 0;
+}
+.card-body {
+    position: relative;
+    font-size: 14px;
+    background: #fff;
+    width: 100%;
+    padding: 0;
+}
+.form {
+    padding-left: 0;
+    @media (max-width: 991px) {
+        padding-left: 15px;
+        padding-right: 0;
+    }
+    @media (max-width: 575px) {
+        padding-right: 15px;
+    }
+}
+
+.regform {
+    padding: 1rem;
+    height: 100%;
+    background: #ffffff;
+    & .reg-title {
+        border-radius: 3px 3px 0 0;
+        padding: 20px 15px;
+        text-align: center;
+        color: #ffffff;
+        background: #dfc65b;
+        margin-left: -30px;
+        margin-right: -30px;
+        h3 {
+            font-size: 24px;
+            margin-bottom: 0;
+        }
+        @media (max-width: 1200px) {
+            font-size: 28px;
+            line-height: 30px;
+        }
+    }
+}
+.cardb {
+    .MuiInputBase-input {
+        position: relative;
+        margin: 0;
+        width: 100%;
+        padding: .5em .75em;
+        height: 100%;
+        background-color: #fff;
+        color: #333;
+        border: none;
+        border-radius: .15rem;
+        font-size: 1em;
+        line-height: 1;
+        transition: 100ms border-color linear,100ms background-color linear;
+        box-sizing: border-box;
+    }
+    .MuiOutlinedInput-root {
+        border-radius: 0;
+    }
+    .MuiFormControl-root, .MuiInputBase-root {
+        height: 35px;
+        margin-bottom: 1em;
+    }
+    .MuiInputBase-root {
+        font-size: 12px;
+    }
+    .MuiFormLabel-root {
+        font-size: 12px;
+    }
+    .MuiFormLabel-root.Mui-focused {
+        background: #ffffff!important;
+        color: rgba(0, 0, 0, .75);
+        padding: 0 5px;
+    }
+    .MuiInputLabel-outlined {
+        transform: translate(14px, 12px) scale(1);
+        background: #ffffff!important;
+    }
+    .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+        background-color: rgba(82,188,230,.05);
+        border: 1px solid rgba(82,188,230,.5);
+    }
+    .left, .right {
+        width: calc(50% - .375em);
+    }
+    .left {
+        margin-right: .375em;
+    }
+    .right {
+        margin-left: .375em;
+    }
+    .large {
+        width: 100%;
+    }
+    .checkbox_text {
+        color: #666!important;
+        font-size: .75em;
+        line-height: 1.25;
+        margin-bottom: 10px;
+    }
+    .PrivateSwitchBase-root-152 {
+        padding: 0;
+        margin-right: 10px;
+    }
+    .btn-secondary {
+        width: 100%;
+        font-size: 22px;
+        color: #ffffff;
+        background: #52bce6;
+        padding: .75em 1.25em;
+        border: 1px solid #25abe0;
+        border-radius: .15rem;
+        cursor: pointer;
+        box-shadow: 0 2px 4px rgba(0,0,0,.15);
+        opacity: 1;
+        transition: all .1s linear;
+        margin-bottom: 10px;
+        &:hover {
+            opacity: .9;
+        }
+    }
+    .support_text {
+        color: #333;
+        text-align: center;
+        line-height: 1.25;
+        font-size: .65em;
+        max-width: 200px;
+        margin: 0 auto;
+        span {
+            &:first-of-type {
+                background: url("./lock.svg") no-repeat top left / 9px;
+                padding-left: 12px;
+            }
+            span {
+                display: block;
+                text-align: center;
+                background: transparent!important;
+            }
+        }
+    }
+}
+.MuiFormHelperText-root {
+    display: none;
+}
+.MuiListItem-gutters {
+    padding: 0 10px!important;
+    font-size: 12px!important;
+}
+.MuiListItemIcon-root {
+    min-width: 25px!important;
+}
+.MuiSvgIcon-root {
+    width: 15px!important;
+    height: 15px!important;
+}
+.MuiButtonBase-root {
+    vertical-align: top!important;
+}
+.popper {
+    min-width: 282px;
+}

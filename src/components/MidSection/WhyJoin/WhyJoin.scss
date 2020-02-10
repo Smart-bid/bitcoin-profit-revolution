@@ -1,0 +1,135 @@
+.WhyJoin {
+    color: #4d4d4d;
+    padding: 3rem 0;
+    .headline {
+        color: inherit;
+        position: relative;
+        z-index: 5;
+        font-weight: 900;
+        line-height: 1.1;
+        text-align: center;
+        display: block;
+        margin-bottom: .5em;
+        .hundred {
+            font-size: 7.5rem;
+            line-height: .85;
+            display: block;
+            text-transform: uppercase;
+        }
+        .subheadline {
+            font-size: 2.5rem;
+        }
+    }
+    .famous-people {
+        position: relative;
+        svg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 0;
+            width: 100%;
+        }
+    }
+    .cards--grid-4 {
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 2rem;
+        z-index: 4;
+        .card--grey {
+            padding: 2rem;
+            box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+            border-top: 0.625rem solid #4d4d4d;
+            min-height: 4rem;
+            background-color: white;
+            border-radius: .625rem;
+            position: relative;
+            color: #4d4d4d;
+        }
+        h4 {
+            margin: 1em 0 .5em;
+            font-size: 18px;
+            font-family: "Montserrat",sans-serif;
+            font-weight: 900;
+            line-height: 1.1;
+        }
+        .card--img {
+            border-radius: 1rem;
+            overflow: hidden;
+            position: relative;
+            border: 1px solid #eaeaea;
+            padding-bottom: calc(100% - 2px);
+        }
+        .snoop, .dan, .ashton, .cent, .mike, .gwyneth,
+        .paris, .bjork, .al, .jack, .eric, .bill, .pitbull,
+        .lionel, .mel, .johnny {
+            max-width: 100%;
+            background-size: 100%;
+            background-image: url("./img/portraits-sprite.jpg");
+        }
+        .snoop {
+            background-position: 0 100%;
+            background-size: 100%;
+        }
+        .dan {
+            background-position: 0 33.333333%;
+            background-size: 100%;
+        }
+        .ashton {
+            background-position: 0 13.333333%;
+            background-size: 100%;
+        }
+        .cent {
+            background-position: 0 0%;
+            background-size: 100%;
+        }
+        .mike {
+            background-position: 0 80%;
+            background-size: 100%;
+        }
+        .gwyneth {
+            background-position: 0 46.666667%;
+            background-size: 100%;
+        }
+        .paris {
+            background-position: 0 86.666667%;
+            background-size: 100%;
+        }
+        .bjork {
+            background-position: 0 26.666667%;
+            background-size: 100%;
+        }
+        .al {
+            background-position: 0 6.666667%;
+            background-size: 100%;
+        }
+        .jack {
+            background-position: 0 53.333333%;
+            background-size: 100%;
+        }
+        .eric {
+            background-position: 0 40%;
+            background-size: 100%;
+        }
+        .bill {
+            background-position: 0 20%;
+            background-size: 100%;
+        }
+        .pitbull {
+            background-position: 0 93.333333%;
+            background-size: 100%;
+        }
+        .lionel {
+            background-position: 0 66.666667%;
+            background-size: 100%;
+        }
+        .mel {
+            background-position: 0 73.333333%;
+            background-size: 100%;
+        }
+        .johnny {
+            background-position: 0 60%;
+            background-size: 100%;
+        }
+    }
+}

@@ -1,0 +1,19 @@
+.Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #4d4d4d;
+    color: white;
+    font-size: .85em;
+    text-align: left;
+    padding: .25em .5em;
+    line-height: 1.25;
+    z-index: 5000;
+    .grey_title {
+        p {
+            padding-left: 15px;
+            background: url("./header-photos/exclamation-triangle.png") no-repeat center left / 14px;
+        }
+    }
+}
