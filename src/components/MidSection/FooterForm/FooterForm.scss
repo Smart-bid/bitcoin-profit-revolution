@@ -17,6 +17,9 @@
       line-height: .85;
       display: block;
       text-transform: uppercase;
+      @media (max-width: 400px) {
+        font-size: 5rem;
+      }
     }
     .subheadline {
       font-size: 2.5rem;
@@ -69,5 +72,8 @@
     height: 100%;
     padding: 1rem;
     background: #fff;
+    @media (max-width: 575px) {
+      padding: 0;
+    }
   }
 }

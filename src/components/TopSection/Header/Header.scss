@@ -15,5 +15,8 @@
             padding-left: 15px;
             background: url("./header-photos/exclamation-triangle.png") no-repeat center left / 14px;
         }
+        @media (max-width: 490px) {
+            text-align: center;
+        }
     }
 }

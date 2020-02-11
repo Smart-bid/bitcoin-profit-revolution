@@ -25,6 +25,9 @@
         text-decoration: none;
         margin-right: 1em;
         cursor: pointer;
+        @media (max-width: 350px) {
+          font-size: 11px;
+        }
         &:hover {
           color: #23527c;
           text-decoration: underline;
@@ -33,6 +36,9 @@
       span {
         color: #333;
         cursor: initial;
+        @media (max-width: 767px) {
+          display: block;
+        }
         &:hover {
           text-decoration: none;
         }
@@ -62,7 +68,8 @@
 
     .footer-logo-block {
       @media (max-width: 764px) {
-        text-align: center;
+        display: flex;
+        justify-content: center;
         margin-bottom: 30px;
       }
     }

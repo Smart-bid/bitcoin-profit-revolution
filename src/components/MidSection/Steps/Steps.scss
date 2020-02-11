@@ -17,6 +17,12 @@
     grid-gap: 2rem;
     margin: 3rem 0 0 0;
     grid-template-columns: 1fr 1fr 1fr;
+    @media (max-width: 767px) {
+      grid-template-columns: 1fr;
+      grid-gap: 1rem;
+      margin: 1.75rem 0 1.75rem;
+    }
+    }
     .card--blue {
       &:last-child {
         h3 {
@@ -26,7 +32,6 @@
         }
       }
     }
-  }
   .card--blue {
     position: relative;
     padding: 1.25rem 1.5rem;
@@ -58,6 +63,9 @@
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
+        @media (max-width: 767px) {
+          display: none;
+        }
       }
     }
     .subtitle {
@@ -84,6 +92,18 @@
       height: 7rem;
       top: -1.5rem;
       right: 1rem;
+      @media (max-width: 991px) {
+        width: 5rem;
+        height: 5rem;
+        top: -1rem;
+        right: -1rem;
+      }
+      @media (max-width: 767px) {
+        width: 5.5rem;
+        height: 5.5rem;
+        top: -0.75rem;
+        right: 1rem;
+      }
     }
   }
 }
