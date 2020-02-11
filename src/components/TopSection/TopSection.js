@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { Link, animateScroll as scroll } from "react-scroll";
 
 import Header from './Header/Header'
 import VideoPlayer from './VideoPlayer/VideoPlayer.js'
@@ -27,6 +28,7 @@ export default class TopSection extends Component {
         })
 
     }
+
 
     render() {
         let languageManager = this.props.languageManager(),
@@ -99,6 +101,61 @@ export default class TopSection extends Component {
         ];
         return (
             <div className='TopSection'>
+                <div className={`menu-block-hidden ` + this.props.modalClass}>
+                    <button onClick={this.props.handleHide} className="menuClose">×</button>
+                    <ul>
+                        <li>
+                            <Link to="section1"
+                                  spy={true}
+                                  smooth={false}
+                                  offset={0}
+                                  duration= {500}
+                                  onClick={this.props.handleHide}>
+                                {languageManager.menu_block[0]}
+                            </Link>
+                        </li>
+                        <li>
+                            <Link to="section2"
+                                  spy={true}
+                                  smooth={false}
+                                  offset={0}
+                                  duration= {500}
+                                  onClick={this.props.handleHide}>
+                                {languageManager.menu_block[1]}
+                            </Link>
+                        </li>
+                        <li>
+                            <Link to="section3"
+                                  spy={true}
+                                  smooth={false}
+                                  offset={0}
+                                  duration= {500}
+                                  onClick={this.props.handleHide}>
+                                {languageManager.menu_block[2]}
+                            </Link>
+                        </li>
+                        <li>
+                            <Link to="section4"
+                                  spy={true}
+                                  smooth={false}
+                                  offset={0}
+                                  duration= {500}
+                                  onClick={this.props.handleHide}>
+                                {languageManager.menu_block[3]}
+                            </Link>
+                        </li>
+                        <li>
+                            <Link to="section5"
+                                  spy={true}
+                                  smooth={false}
+                                  offset={0}
+                                  duration= {500}
+                                  onClick={this.props.handleHide}>
+                                {languageManager.menu_block[4]}
+                            </Link>
+                        </li>
+                    </ul>
+                </div>
                 <Header languageManager={this.props.languageManager} handleScroll={this.handleScroll.bind(this)}/>
                 <div className="container">
                     <div className="row">
@@ -122,7 +179,7 @@ export default class TopSection extends Component {
                             </div>
                         </div>
                         <div className="col-lg-2 menu-block">
-                            <button className="menu"></button>
+                            <button onClick={this.props.handleShow} className="menu"></button>
                         </div>
                     </div>
                 </div>

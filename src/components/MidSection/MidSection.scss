@@ -494,6 +494,7 @@
     display: flex;
     justify-content: center;
     padding: 3rem 0;
+    color: #ffffff;
     .brown-btn {
         font-family: "Montserrat",sans-serif;
         font-weight: 900;
@@ -508,6 +509,9 @@
         transition: all .3s linear;
         border: 1px solid transparent;
         border-radius: 4px;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
         &:hover {
             background-color: #f59738;
             border-color: #f48a20;

@@ -3,7 +3,7 @@ import React from 'react'
 const WhyJoin = props => {
     let languageManager = props.languageManager();
     return (
-        <div className="WhyJoin">
+        <div className="WhyJoin" id={"section2"}>
             <div className="container">
                 <h2 className={"headline"}>
                     <span className="hundred">{languageManager.join_title[0]}</span>

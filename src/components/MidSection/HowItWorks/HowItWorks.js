@@ -3,7 +3,7 @@ import React from 'react'
 const HowItWorks = props => {
     let languageManager = props.languageManager();
     return (
-        <div className="HowItWorks">
+        <div className="HowItWorks" id={"section1"}>
             <div className="container">
                 <svg xmlns="http://www.w3.org/2000/svg" className="section--grey-blob top-svg" viewBox="0 0 1366 158.4"
                      preserveAspectRatio="none">

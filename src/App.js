@@ -16,7 +16,9 @@ export default class App extends Component {
         this.state = {
             step: 1,
             page: 'main',
-            hide: false
+            hide: false,
+            modal: false,
+            modalClass: ''
         };
 
         this.handleStep = this.handleStep.bind(this);
@@ -63,6 +65,26 @@ export default class App extends Component {
         document.cookie = "privacy=agree; max-age=1800000"
     };
 
+    handleShow = () => {
+        this.setState({
+            modal: true
+        }, () => {
+            this.setState({
+                modalClass: 'menu-show'
+            })
+        })
+    };
+
+    handleHide = () => {
+        this.setState({
+            modal: false
+        }, () => {
+            this.setState({
+                modalClass: ''
+            })
+        })
+    };
+
     render() {
         const display = {
             bottom: '-800px'
@@ -72,7 +94,14 @@ export default class App extends Component {
             return (
                 <Router>
                     <div className='App'>
-                        <TopSection {...this.props} handleStep={this.handleStep} step={this.state.step}/>
+                        <TopSection {...this.props}
+                                    handleStep={this.handleStep}
+                                    step={this.state.step}
+                                    handleShow={this.handleShow}
+                                    handleHide={this.handleHide}
+                                    modal={this.state.modal}
+                                    modalClass={this.state.modalClass}
+                        />
 
                         <MidSection {...this.props}/>
 

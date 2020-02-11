@@ -3,7 +3,7 @@ import React from 'react'
 const Steps = props => {
     let languageManager = props.languageManager();
     return (
-        <div className={"Steps"}>
+        <div className={"Steps"} id={"section5"}>
             <h2>{languageManager.join_profit_title}</h2>
             <div className="container">
                 <div className="cards--grid-3">

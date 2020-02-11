@@ -72,7 +72,7 @@ const FooterForm = props => {
             }
         ];
     return (
-        <div className={"FooterForm"}>
+        <div className={"FooterForm"} id={"section6"}>
             <div className="container">
                 <h2 className={"headline"}>
                     <span className="hundred">{languageManager.last_title[0]}</span>
