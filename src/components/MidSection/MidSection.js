@@ -1,13 +1,12 @@
 import React, { Component } from 'react'
 import Button from './Button/Button'
 import HowItWorks from "./HowItWorks/HowItWorks";
-import Partners from './Partners/Partners'
-import FamousNames from "./FamousNames/FamousNames";
-import Traders from "./Button/Button";
-import Faq from "./Faq/Faq";
-import logo from "../TopSection/logo.svg";
-import Regform from "../TopSection/Regform/Regform";
+import ReasonsNewspaper from "./ReasonsNewspaper/ReasonsNewspaper";
+import JoinNow from "./JoinNow/JoinNow";
 import WhyJoin from "./WhyJoin/WhyJoin";
+import Steps from "./Steps/Steps";
+import FooterForm from "./FooterForm/FooterForm";
+
 
 
 export default class MidSection extends Component {
@@ -146,41 +145,15 @@ export default class MidSection extends Component {
                 <Button {...this.props} children={languageManager.brown_btn} />
                 <HowItWorks {...this.props} />
                 <WhyJoin {...this.props} />
-                {/*<Invest languageManager={this.props.languageManager}/>
-                <Trend languageManager={this.props.languageManager}/>
-                <FamousNames languageManager={this.props.languageManager}/>
-                <Benefits languageManager={this.props.languageManager}/>
-                <Traders languageManager={this.props.languageManager}/>
-                <Faq languageManager={this.props.languageManager}/>
-                <div className="second-form">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-12">
-                                <h2>{languageManager.second_form}</h2>
-                            </div>
-                            <div className="col-lg-4 offset-lg-4 col-md-8 offset-md-2 form">
-                                <div className="regform" ref={this.regPanel}>
-                                    <div className="reg-title"><h3>{languageManager.title_form}</h3></div>
-                                    <Regform {...this.props}
-                                             loadingLogo={{
-                                                 className: 'loading',
-                                                 source: logo
-                                             }}
-                                             material={true}
-                                             formSteps={steps}
-                                             responseError={{
-                                                 className: 'resError',
-                                                 button: {
-                                                     className: 'button_forward',
-                                                     text: 'OK'
-                                                 }
-                                             }}
-                                    />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>*/}
+                <ReasonsNewspaper {...this.props} />
+                <div className="alone-title">
+                    <h2 className={"text-center"}>{languageManager.your_turn}</h2>
+                    <Button {...this.props} children={languageManager.brown_btn} />
+                </div>
+                <JoinNow {...this.props} />
+                <Steps {...this.props} />
+                <Button {...this.props} children={languageManager.brown_btn} />
+                <FooterForm {...this.props} />
             </div>
 
         )

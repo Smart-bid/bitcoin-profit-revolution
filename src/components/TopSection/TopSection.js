@@ -1,10 +1,8 @@
 import React, { Component } from 'react'
 
 import Header from './Header/Header'
-import ModalWindow from "./ModalWindow/ModalWindow";
 import VideoPlayer from './VideoPlayer/VideoPlayer.js'
 import Regform  from './Regform/Regform'
-import Ticker  from './Ticker/Ticker'
 import logo from './logo.svg'
 import bbb from './images/bbb.png'
 import euronext from './images/euronext.png'

@@ -1,11 +1,28 @@
 @import 'WhyJoin/WhyJoin';
 @import 'HowItWorks/HowItWorks';
-@import 'FamousNames/FamousNames';
-@import 'Faq/Faq';
+@import 'ReasonsNewspaper/ReasonsNewspaper';
+@import 'JoinNow/JoinNow';
+@import 'Steps/Steps';
+@import 'FooterForm/FooterForm';
 @import '../TopSection/Regform/Regform';
 
 .MidSection {
     background: #ffffff;
+    .alone-title {
+        h2 {
+            font-family: "Montserrat",sans-serif;
+            font-weight: 900;
+            margin-bottom: .5em;
+            font-size: 3rem;
+            text-align: center;
+            line-height: 1.1;
+            color: #4d4d4d;
+        }
+        padding: 3rem 0;
+        .btn-block {
+            padding: 0;
+        }
+    }
     .section-3 {
         padding-bottom: 3rem;
         h2 {
