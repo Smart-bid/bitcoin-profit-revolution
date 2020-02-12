@@ -4,16 +4,6 @@
     "header_subtitle": "We are getting an unprecedented number of new users.",
     "title": "The Profit Revolution is here.",
     "subtitle": "Celebs have made millions from bitcoin. Now, there's an even easier way to benefit from cryptocurrencies",
-    "customers_name": [
-      "Amelia",
-      "Elsie",
-      "Fred",
-      "Henry",
-      "Ivy",
-      "Evelin"
-    ],
-    "flag_img": "ua",
-    "status": " joined",
     "video_title": "Tap to watch and learn the secret!",
     "title_form": "",
     "first_name": "First name",
@@ -399,37 +389,30 @@
       "Crypto in media",
       "Ordinary people got rich",
       "Join now"
-    ]
+    ],
+    "modal_title": "Wait!",
+    "modal_sub": "Before you leave...",
+    "modal_text1": "The markets are moving fast. Don’t miss out on your chance to profit from the latest rises and falls.",
+    "modal_text2": "Register today and join the thousands of people changing their lives thanks to online trading."
   },
   "da": {
     "header_title": "– Tekstreklame –",
-    "header_subtitle": "Vi har fået et hidtil uset antal nye brugere.",
-    "title": "Opdag din Personlige Guldmine",
-    "subtitle": "Slut dig til tusindvis af mennesker som investerer i guldmarkedet!",
-    "customers_name": [
-      "Amelia",
-      "Elsie",
-      "Fred",
-      "Henry",
-      "Ivy",
-      "Evelin"
-    ],
-    "flag_img": "dk",
-    "status": " tilmeldt",
-    "video_title": "Tryk for at se og lære hemmeligheden!",
-    "title_form": "LAV OM PÅ DIT LIV I DAG!",
+    "header_subtitle": "Vi får et hidtil uset antal nye brugere.",
+    "title": "Profit Revolution er ankommet.",
+    "subtitle": "Kendisser har tjent millioner på bitcoin. Nu er det blevet endnu nemmere at drage fordel af kryptovalutaer\n",
+    "video_title": "Klik for at se med og lære hemmeligheden!",
+    "title_form": "",
     "first_name": "Fornavn",
     "last_name": "Efternavn",
-    "email": "Email",
+    "email": "E-mail",
     "password": "Kodeord",
     "phone_number": "Telefonnummer",
-    "pass2": "Confirm Password",
     "button": "Kom i gang nu",
     "agreement_first": "Jeg giver mit samtykke til at min e-mailadresse lagres med det formål, at jeg kan modtage information og kommercielle tilbud om tradingsoftware og -platforme.",
     "agreement_second": "Jeg erklærer mig enig i disse Vilkår og Betingelser og denne Privatlivspolitik",
     "terms_links": "Vilkår og Betingelser",
     "privacy_links": "Privatlivspolitik",
-    "button_last": "Kom i gang nu",
+    "button_last": "REGISTER NOW",
     "passtest": [
       "Kodeordet skal være på 8 tegn.",
       "Må ikke indeholde specielle tegn.",
@@ -438,418 +421,394 @@
       "Skal indeholde mindst 1 tal."
     ],
     "more_title": [
-      "Du kan skifte mening til enhver tid ved at klikke på afmeldelseslinket i.."
+      "Du kan skifte mening til enhver tid ved at klikke på afmeldelseslinket i..."
     ],
     "more_decription": "bunden af enhver e-mail, du modtager fra os. Vi vil behandle dine data med respekt. Ved at klikke ovenfor giver du samtykke til, at vi må bearbejde dine data i overensstemmelse med disse vilkår.",
-    "join_title": "Som guldpriserne stiger, har der aldrig været et bedre tidspunkt at investere på.",
-    "join_subtitle": "Tilmeld dig i dag og hold dine penge sikret ved at investere i guld!",
-    "join_description": "Guld har været målestokken for rigdom gennem hundredevis af år, og i takt med at industrier og teknologier udvikles, udgør guld stadig en sold standard for global finans. Efter økonomikrisen i 2008 var guld en af de få industrier som forblev stærke, og dets lange historie og fysiske værdi betyder, at det vil overleve enhver markedsnedgang.",
-    "invest_main_title": "Investér i guld med Golden Profit",
-    "invest_descriptions": [
+    "instruction": [
       {
-        "step": "TRIN",
-        "name": "Tilmeld dig",
         "text": [
-          "Det tager kun få minutter at registrere din konto i Golden Profits strømlinede tilmeldingssystem. Udfyld blot dine detaljer og vi klarer resten.",
+          "Se",
+          "videoen",
           ""
         ]
       },
       {
-        "step": "TRIN",
-        "name": "Investér",
         "text": [
-          "Du vil blive kontaktet af en af vores personlige mæglere, som fortæller dig præcis hvad du skal gøre for at foretage din første investering.",
-          "Det påkrævede mindstebeløb, der skal indbetales er 1639 kr."
-        ]
-      },
-      {
-        "step": "TRIN",
-        "name": "Handl",
-        "text": [
-          "Når du har aktiveret din konto ved at indsætte et depositum, vil du kunne begynde at investere i din fremtid.",
+          "Udfyld formularen for at oprette din",
+          "gratis konto",
           ""
         ]
+      },
+      {
+        "text": [
+          "Modtag et ",
+          "gratis telefonopkald",
+          " fra en ekspert"
+        ]
       }
     ],
-    "blue_btn": "Register her",
-    "trade_title": "Trenden som taler for sig selv",
-    "trade_description": "I takt med at flere og flere investorer begynder at genetablere en interesse i guld, er priserne fløjet i vejret. Dette skyldes, at guld tilbyder mere sikkerhed end alle andre råvarer, og i en verden af voksende økonomisk ustabilitet er sikkerhed svær at finde. Kig på skemaet herunder for at se, hvor meget guldpriserne er steget i de sidste 12 måneder.",
-    "famous_title": "Berømte navne indenfor trading",
-    "famous_description": "Der er mange store navne indenfor trading. Her er hvad nogle af de mest berømte tradere havde at sige.",
-    "famous_body": [
+    "join_title_left": "Deltag i dag og begynd at tjene",
+    "join_title_right": [
+      "100",
+      "SIKKER",
+      "%"
+    ],
+    "join_subtitle_left": "Åbn din gratis konto og få adgang til:",
+    "join_subtitle_right": "Ubegrænset sikkerhed",
+    "join_subtitle_right2": "Når du tilmelder dig Profit Revolution, kan du slappe helt af omkring din økonomi. Vores systemer krypterer alle kontrakter, hvilket giver dig fuldstændig anonymitet.",
+    "join_description_left": [
       {
-        "img": "elder",
-        "name": "Alexander Elder",
-        "text": "Du kan være fri. Du kan bo og arbejde hvor som helst i verden. Du kan være uafhængig af rutiner og slippe for at stå til ansvar overfor nogen."
+        "title": "Eksperthjælp",
+        "link": "Tilmeld dig Profit Revolution i dag",
+        "text": ", og du får 1-til-1 ekspertrådgivning fra en finansekspert. De vil trin for trin føre dig gennem, hvordan du kommer i gang, og hvordan du kan gøre rentable handler."
       },
       {
-        "img": "seykota",
-        "name": "Ed Seykota",
-        "text": "Alle får det de vil have ud af markedet, uanset om de vinder eller taber. Nogle mennesker ser ud til at kunne lide at tabe, så de vinder ved at tabe penge."
+        "title": "Nyskabende teknologi",
+        "text": "Profit Revolution bruger den nyeste teknologi til at give dig den bedst mulige handelsoplevelse. Du vil kunne se markedsopdateringer live 24/7, så du aldrig går glip af en mulighed for at tjene penge."
       },
       {
-        "img": "oneil",
-        "name": "William O’Neil",
-        "text": "Det der ser ud til at være for højt og risikabelt for flertallet, går generelt højere, og det der ser lavt og billigt ud, går generelt lavere."
-      },
-      {
-        "img": "buffet",
-        "name": "Warren Buffett",
-        "text": "Du behøver ikke at være raketforsker. Investering er ikke et spil, hvor fyren med en IQ på 160 slår fyren med en IQ på 130."
+        "title": "Mulighed for hurtige fortjenester",
+        "text": "Profit Revolution lever virkelig op til sit navn ved at give dig mulighed for at tjene penge med det samme. Når du har tjent penge, går de direkte ind på din konto, og du kan hæve dem med det samme."
       }
     ],
-    "benefits_title": "Fordele ved Online Handel",
-    "benefits_subtitle": "Det er den bedste måde at investere dine penge på",
-    "benefits_information": [
+    "join_description_right": [
+      "Alle de midler, du indbetaler på din gratis konto, forblive dine. Du kan handle, tjene penge og trække dem ud når som helst.",
+      "99,9% af brugerne vælger Profit Revolution pga. den sikre økonomiske frihed, den giver."
+    ],
+    "brown_btn": "Kom i gang i dag!",
+    "how_it_works_title": [
+      "HVORDAN",
+      "viker det?"
+    ],
+    "how_it_works_description": [
       {
-        "img": "accurate",
-        "title": "Nøjagtig Handel",
-        "description": "Brug Golden PROFITs live handelsopdateringer, som opdateres hvert minut, til at træffe de rigtige beslutninger hver eneste gang du handler."
+        "title": "Det økonomiske økosystem",
+        "text": [
+          "Profit Revolution",
+          "handler ikke kun om at investere, det handler om ",
+          ", som forbinder dig til andre rundt om i verden. ",
+          "giver dig muligheden for at tjene rigtige penge på kryptovaluta.",
+          "Du vil være anonymt forbundet med den revolutionerende cyberøkonomi via sikre servere og være i stand til at låne og drage fordel af værdien af de kryptovalutaer, du vælger."
+        ],
+        "links": "at blive en del af et økosystem"
       },
       {
-        "img": "cutting",
-        "title": "Den Nyeste Teknologi",
-        "description": "Golden PROFIT bruger den nyeste handelsmaskine for at holde alle dine handler kørende glat og effektivt og for at sikre, at du har den bedst mulige beskyttelse."
+        "title": "Rigtige penge i realtid",
+        "text": [
+          "Med",
+          "Profit Revolution",
+          " kan du ",
+          ". Det sekund, at markederne rykker på sig, kan du tjene penge takket være ",
+          "'s livehandelsvinduer og markedfeeds live 24/7."
+        ],
+        "links": "opnå en reel fortjeneste med det samme"
       },
       {
-        "img": "trading",
-        "title": "Handel du kan Stole på",
-        "description": "Golden PROFIT er blandt verdens førende inden for online handel og er anerkendt globalt for deres intuitive design og brugervenlige platform."
+        "title": "Banebrydende teknologi",
+        "text": [
+          "Profit Revolution",
+          "bruger avanceret teknologi til at hjælpe dig med at tjene penge og skabe sikkerhed. Du har ",
+          " til din økonomi, samtidig med at du opretholder 100% anonymitet."
+        ],
+        "links": "fuld ubegrænset adgang"
+      },
+      {
+        "title": "Deltag i revolutionen",
+        "text": [
+          "Vi bringer revolutionen til dig. For at komme i gang skal du blot ",
+          ", og du vil snarest blive kontaktet af en finansekspert, der hjælper dig med at ",
+          " og få dit første overskud."
+        ],
+        "links": [
+          "udfylde formularen",
+          "åbne din gratis konto"
+        ]
       }
     ],
-    "table_title": "Online handlende",
-    "table_head": [
-      "Bruger",
-      "Tidspunkt",
-      "Registreret"
+    "join_title": [
+      "HVORFOR",
+      "bør jeg være med?"
     ],
-    "table_inner": [
+    "join_description": [
       {
-        "name": "J******",
-        "img": "register"
+        "class": "snoop",
+        "title": "Snoop Dogg",
+        "text": "Rapperen Snoop Dogg (kendt for at have sagt i 2013, at han ville gøre sin næste plade tilgængelig i Bitcoin) blev bragt ind for at lukke Ripple Labs' konferencen til en privat efterfest.a"
       },
       {
-        "name": "K******",
-        "img": "register"
+        "class": "dan",
+        "title": "Dan Bilzerian",
+        "text": "\"Til alle, der spørger, har jeg 50% bitcoin, 25% ETH, 15% monero og 10% bitcoin cash,” sagde han på Twitter."
       },
       {
-        "name": "S******",
-        "img": "register"
+        "class": "ashton",
+        "title": "Ashton Kutcher",
+        "text": "Kutcher og hans team donerede 4 millioner dollars i Ripples XRP-tokens for at hjælpe velgørenheden Ellen DeGeneres Wildlife Fund."
       },
       {
-        "name": "M******",
-        "img": "register"
+        "class": "cent",
+        "title": "50 Cent",
+        "text": "50 Cents gamblede på Bitcoin, og det har virkelig betalt sig, efter at rapperen opdagede, at hans investering i kryptovaluta nu er millioner værd."
       },
       {
-        "name": "A******",
-        "img": "register"
+        "class": "mike",
+        "title": "Mike Tyson",
+        "text": "Den tidligere boksemester Mike Tyson har taget sin interessere for bitcoin-markedet skridtet videre med lanceringen af en digital \"tegnebog\" til den digitale valuta bitcoin."
       },
       {
-        "name": "L******",
-        "img": "register"
+        "class": "gwyneth",
+        "title": "Gwyneth Paltrow",
+        "text": "Mainstream? Gwyneth Paltrow promoverer Bitcoin-investeringsguide på Twitter. Gwyneth Paltrow blev den seneste berømthed til at promovere kryptovaluta i dag, i det mindste indirekte, ved at tweete en Q&A med en udvekslingsoperatøren Bill Barhydt fra sin hjemmeside kaldet Goop."
       },
       {
-        "name": "N******",
-        "img": "register"
+        "class": "paris",
+        "title": "Paris Hilton",
+        "text": "Paris Hiltons far, hotelmogulen, sælger sit palæ til DKK 253 millioner for kryptovaluta. Richard \"Rick\" Hilton, formand for Hilton & Hyland og far til den amerikanske socialite og reality-tv-stjerne Paris Hilton, sælger Palazzetto-palæet for 253 millioner kroner gennem en kryptovalutaauktion."
       },
       {
-        "name": "B******",
-        "img": "register"
+        "class": "bjork",
+        "title": "Björk",
+        "text": "Bjork vil gerne have, at folk skal købe hendes nye album med bitcoin. Den islandske sanger accepterer også tre mindre kendte typer cryptocurrency: litecoin, dash og AudioCoin. Traditionalister kan stadig betale med kreditkort eller PayPal."
       },
       {
-        "name": "O******",
-        "img": "register"
+        "class": "al",
+        "title": "Al",
+        "text": "”Jeg mener, at det faktum, at en algoritme erstatter regeringens funktioner inden for Bitcoin-universe, faktisk er ret cool. Jeg er en stor fan af Bitcoin.”"
       },
       {
-        "name": "P******",
-        "img": "register"
+        "class": "jack",
+        "title": "Jack Ma",
+        "text": "Blockchain-teknologi kunne ændre vores verden langt mere, end folk tror."
       },
       {
-        "name": "A******",
-        "img": "register"
+        "class": "eric",
+        "title": "Eric Schmidt",
+        "text": "Bitcoin er en bemærkelsesværdig kryptografisk præstation, og evnen til at skabe noget, der ikke kan duplikeres i den digitale verden, har enorm værdi."
       },
       {
-        "name": "G******",
-        "img": "register"
+        "class": "bill",
+        "title": "Bill Gates",
+        "text": "”Bitcoin er en teknologisk vidunder. Bitcoin er bedre end valuta” \n Blockchain eliminerer behovet for en tredjepartsformidler som fx en bank."
+      },
+      {
+        "class": "pitbull",
+        "title": "Pitbull",
+        "text": "Rapkunstner Pitbull har annonceret, at hans seneste satsning vil være en international blockchain-kodningskonkurrence, der skal rykke rundt på musikbranchen."
+      },
+      {
+        "class": "lionel",
+        "title": "Lionel Messi",
+        "text": "”Jeg har normalt travlt med at forsøge at decentralisere forsvar og efter at have dykket dybere ned i Blockchain og decentrale systemer, er jeg glad for at tilslutte mig SIRIN LABS som ambassadør for at gøre blockchain mere venlig med deres kommende operativsystem til smartphones.”"
+      },
+      {
+        "class": "mel",
+        "title": "Mel B",
+        "text": "”Jeg elsker, hvordan ny teknologi gør vores liv lettere, og for mig er det spændende. Bitcoin forener mine fans rundt om i verden ved hjælp af én valuta. ”"
+      },
+      {
+        "class": "johnny",
+        "title": "Johnny Depp",
+        "text": "Johny Depp arbejder angiveligt sammen med blockchain-baseret indholdsdelingsplatform TaTaTu. Skuespilleren vil deltage i partnerskabet gennem sit produktionsselskab Infinitum Nihil."
       }
     ],
-    "faq_title": "Ofte Stillede Spørgsmål",
-    "faq_question": [
+    "blue_block": [
+      "... du kan læse om det i medier over hele verden ...",
+      "... og selv almindelige mennesker har tjent formuer på det!"
+    ],
+    "news": [
       {
-        "question": "Hvor meget kan jeg tjene?",
-        "answer": "Din profit afhænger af dine beslutninger og inputs. De handlende, som kombinerer deres renter og foretager dyrere handeler, står til at tjene meget mere end dem som handler på lavere niveauer. Men det kommer dog helt an på, hvordan du ønsker at handle."
+        "class": "first-article",
+        "title": "Alle bliver latterligt rige, men ikke dig",
+        "description": [
+          "For nylig blev grundlæggeren af noget kaldet Ripple rigere end Mark Zuckerberg for en kort stund. Den anden dag oprettede en anonym donor en velgørenhedsorganisation med 86 millioner dollars i bitcon kaldet Pineapple Fund.",
+          "En Tesla blev set med en BLOCKHN-nummerplade. Der er en stigning i folk, der ønsker at købe Bitcoin på deres kreditkort. Efter at Long Island Iced Tea-selskabet annoncerede, at det ville gå mod blochain, steg dets aktie 500 procent på en dag.",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html"
       },
       {
-        "question": "Skal jeg have nogen handelserfaring?",
-        "answer": "Golden PROFIT er designet til handlende på alle niveauer og kan give dig de evner og den selvtillid du behøver for at handle på højt niveau. Platformen inkluderer de informationer du behøver for at komme i gang med at handle, hvad enten du er nybegynder eller professionel handlende."
+        "class": "second-article",
+        "title": "Bitcoin bliver værd 60.000 kr. som kryptokapløbet knuser aktier, obligationer, guld og olie",
+        "description": [
+          "Prisen på bitcoin steg til over 60.000 kr, hvilket forlænger et comeback, der har gjort kryptovaluater langt mere værd end traditionelle aktivklasser i år.",
+          "Bitcoin opnåede mandag en værdi på 66.458,33 kr, hvilket er det højeste i 13 måneder, ifølge researchsiden CoinDesk. Mens aktier, obligationer, guld og olie er gået op i år, så overhaler bitcoin dem alle. Priserne for bitcoin og rivaliserende digitale valutaer kollapsede sidste år.",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.wsj.com/articles/bitcoin-tops-9-000-as-crypto-rally-trounces-stocks-bonds-gold-and-oil-11560765681"
       },
       {
-        "question": "Hvor meget koster det?",
-        "answer": "Vores platform er helt gratis at bruge. Alt hvad du behøver er en startkapital på 250$ (~1625 kr), som du kan investere og handle med."
+        "class": "third-article",
+        "title": "Facebook vinder, som markedet finder kryptomuligheder spændende",
+        "description": [
+          "Facebook Inc. (FB) aktier bevæger sig opad, da markedet venter på et hvidt papir om virksomhedens meget omtalte kryptovalutatilbud tirsdag den 18. juni.",
+          "Aktierne på selskabet, der er baseret i Menlo Park, Californien, steg næsten 2% inden mandagens åbning, hvilket forlængede gevinsterne for juni måned efter en ulykkelig afslutning på majmåned for Facebook. Det er et resultat af Jim Cramers Action Alerts PLUS velgørenhed.",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://realmoney.thestreet.com/investing/stocks/facebook-stock-gains-as-market-finds-crypto-opportunity-intriguing-14992789"
       },
       {
-        "question": "Hvor mange medlemmer er der?",
-        "answer": "Vi har over 250.000 medlemmer som bruger vores services verden over."
+        "class": "fourth-article",
+        "title": "Analytikeren, der forudsagde Bitcoins bund og nuværende pris, siger DKK 10700 i oktober",
+        "description": [
+          "En anonym analytiker, der allerede med succes har forudsagt, at Bitcoin ville nå 61400 kr i juli 2019, mener nu, at Bitcoin vil nå 106.000 kr. i oktober 2019. Analytikeren havde ret i sin forudsigelse af, at BTC ville nå en værdi af 61.400 i juli 2019, selv om han havde udgivet sin analyse tilbage i januar 2019.",
+          "Analytikeren starter med at oplyse, at vi allerede er i et opadgående marked - men husk, at han havde offentliggjort dette d. 01/21/19 - så han havde allerede bemærket, at denne dannelse meget tidligt på året.",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://cryptopotato.com/the-analyst-who-predicted-bitcoins-bottom-current-price-says-16k-in-october/"
       },
       {
-        "question": "Hvilke virksomheder kan jeg bruge?",
-        "answer": "Du kan handle med alle offentlige virksomheder fra alle de største børser i verden. Hvis du har hørt om virksomheden, kan du handle med den!"
+        "class": "fifth-article",
+        "title": "Ruslands centralbank overvejer at lancere en digital valuta",
+        "description": [
+          "Chefen for Ruslands centralbank har sagt, at institutionen overvejer en dag at lancere sin egen digitale valuta.",
+          "Formandskvinde Elvira Nabiullina fortalte på en studenterkonference, at selvom et sådant projekt ”ikke umiddelbart kan realiseres,”, rapporterede TASS lørdag, at forskellige centralbanker, herunder Ruslands centralbank, undersøger muligheden.",
+          "Nøglen til en centralbanks digitale valuta (CBDC), sagde hun, er, at teknologien skal sikre \"pålidelighed og kontinuitet.\" \"Teknologier skal være modne, inklusive teknologier i distribuerede registre,” sagde Nabiullina."
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.coindesk.com/russias-central-bank-is-considering-launching-a-digital-currency"
+      },
+      {
+        "class": "six-article",
+        "title": "Mål for kryptomarkedsværdi DKK 2 milliarder: Bitcoin Cash, EOS, TRX, ADA analyse",
+        "description": [
+          "Ser man på det samlede markedskurs og -værdi i timen for kryptovaluta, var der et stærkt opadgående bevægelse, efter at der var et brud over DKK 1,7B og DKK 1,73B milliader modstandsniveauer. Markedsprisen brød endda niveauet DKK 1,8B og testede for nylig zonen DKK 1,85B Det korrigerede lavere, men 1,76B-niveau fungerede som en stærk støtte. Den aktuelle prishandling er positiv, hvilket antyder flere gevinster over niveauet DKK1,83B og DKK 1,86B. Hvis alt går godt, kan kryptomarkedet endda teste DKK2,0B niveauet i de kommende dage. Derfor er flere gevinster mulige i bitcoin, ETH, XRP, TRX, ADA, bitcoin cash, litecoin, EOS, stellar, IOTA, ICX, WAN og andre altcoins.",
+          "",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.newsbtc.com/2019/06/17/crypto-market-targets-300-billion-cap-bitcoin-cash-eos-trx-ada-analysis/"
+      },
+      {
+        "class": "seven-article",
+        "title": "Mød Erik Finman, en teenage bitcoin-millionær",
+        "description": [
+          "Erik Finman er en af verdens yngste bitcoin-millionærer - en præstation, han ikke er genert ved at skulle fortælle. Den 19-åriges Instagram-feed er fuld af pralende fotos af sig selv, der træder ud af private jetfly, eller hvir han ligger på senge dækket i penge med billedtekster som: “Penge er så værdiløse sammenlignet med Bitcoin, at jeg sover på dem ...”",
+          "",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.theguardian.com/technology/2018/jun/13/meet-erik-finman-the-teenage-bitcoin-millionaire"
+      },
+      {
+        "class": "eight-article",
+        "title": "To bedste venner, der tjener 13.500 om dagen via handel med kryptovaluta",
+        "description": [
+          "To bedste kammerater, der begyndte handel med cryptocurrency for bare et par måneder siden, siger, at de bliver millionærer inden årets udgang, efter at have startet med kun DKK 33.000.",
+          "Daniel Colosi, 31 og Stephen Lenoci, 34, som begge bor i Bondi, en forstad til Sydney, siger, at de havde studeret den mystiske nye verden af onlinepenge i et stykke tid.",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.dailymail.co.uk/news/article-5272869/Bitcoin-investors-say-theyll-millionaires-2019.html"
+      },
+      {
+        "class": "nine-article",
+        "title": "Mød manden, der rejser verden rundt på sin DKK 166 millioner Bitcoin-fortjeneste",
+        "description": [
+          "Mr. Smith - der bad mig om at skjule sit rigtige navn - har rejst verden rundt i ultraluksuriøs stil i de sidste fire år. Han flyver kun førsteklasse, bor udelukkende i 5-stjernede suiter og har ikke lavet mad siden Thanksgiving. I de sidste tredive dage har han besøgt Singapore, New York City, Las Vegas, Monaco, Moskva, været tilbage i New York City, Zürich og nu Hong Kong. ”Jeg keder mig absolut aldrig,” siger han og løfter sit glas champagne i en Gatsby-esque hilsen. Derefter delte han sin historie.",
+          "",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/#2a6c48762615"
+      },
+      {
+        "class": "ten-article",
+        "title": "Denne 25-årige tjente en formue på bitcoin - nu rejser han verden rundt",
+        "description": [
+          "Jeremy Gardner vendte tilbage fra en safari i Sydafrika - hvor han fløj ud for at deltage i AfrikaBurn, en regional Burning Man-festival - da han igen fik telefondækning. Han tjekkede Twitter, hvor han følger andre bitcoin-overvågere, for at se, hvordan hans investeringer klarede sig.",
+          "”Jeg så, at bitcoin var brudt med næsten DKK 16700 - alle kryptoaktiverne var eksploderet i værdi,” fortalte Gardner til Business Insider. ”Og pludselig var min nettoværdi på fem dage fordoblet i værdi. Det virkede helt skørt for mig.”",
+          ""
+        ],
+        "button": "Læs hele artiklen ›",
+        "link": "http://nullrefer.com/?https://www.businessinsider.com/jeremy-gardner-bitcoin-entrepreneur-30-2017-8"
       }
     ],
-    "second_form": "Begynd dit nye liv Nu",
+    "your_turn": "Og nu er det din tur!",
+    "join_now_title": [
+      "Tilmeld dig",
+      "nu"
+    ],
+    "join_now_subtitle": "Profit Revolution er ved at tage verden med storm, og dette er din chance for at hoppe på tidligt.",
+    "join_now_text": [
+      "Verdens økonomier er ved at gennemgå store ændringer. Banker forsvinder fra vores gader, og verden bliver digital. Profit Revolution giver dig mulighed for at ",
+      "tage handling i dag",
+      " og ",
+      "begynde at tjene",
+      " på kryptovalutaer.",
+      "Takket være avanceret teknologi og en revolutionerende ny måde at tjene på har kryptovaluta Profit Revolution allerede tiltrukket en masse berømte ansigter. Fra Kanye til Madonna, Bill Gates til Richard Branson: Verdens rigeste stjerner tjener allerede på det. Nu er det din tur."
+    ],
+    "join_profit_title": "Deltag i Profit Revolution i dag",
+    "join_profit_step1": [
+      "Trin 1",
+      "Registrer",
+      "Ingen grund til at vente flere uger med at blive accepteret. Udfyld blot dine oplysninger, så bliver du registreret i dag."
+    ],
+    "join_profit_step2": [
+      "Trin 2",
+      "Invester",
+      "Du modtager et telefonopkald fra en ekspertrådgiver, der vil præsentere dig for alle de utrolige insiderhemmeligheder."
+    ],
+    "join_profit_step3": [
+      "Trin 3",
+      "Tjen penge",
+      "Når du har registreret dig og talt med en ekspert, vil du være klar til at begynde at tjene penge. Så enkelt er det."
+    ],
+    "last_title": [
+      "Tilmeld dig",
+      "Profit Revolution i dag"
+    ],
+    "doted_block": [
+      "Investering er den nemmeste måde at sikre din fremtidige indkomst. Nu kan du tjene penge på kryptovalutaens succes, mens du sidder komfortablt derhjemme. Alt, hvad du skal gøre, er:",
+      "Registrer i dag for at foretage din første investering.",
+      "Sæt mindst 1700 DKK ind på din konto",
+      "Modtag et gratis telefonopkald fra en finansekspert.",
+      "Begynd at tjene penge!"
+    ],
     "disclaimer": [
       "VIGTIGT: ",
       "Indtjening og juridiske ansvarsfraskrivelser",
-      "Fortjeneste- og indkomstrepræsentationer foretaget af Golden Profit, (herefter benævnt “denne webside”) bruges kun som stræbemål for dit indtjeningspotentiale. Den succes som personerne i vidnesbyrdene og andre eksempler oplever er ekstraordinære resultater og derfor ikke ment som en garanti for at du eller andre kommer til at opnå de samme resultater. Individuelle resultater varierer og afhænger udelukkende af din anvendelse af Golden Profit.",
+      "Fortjeneste- og indkomstrepræsentationer foretaget af Profit Revolution, (herefter benævnt “denne webside”) bruges kun som stræbemål for dit indtjeningspotentiale. Den succes som personerne i vidnesbyrdene og andre eksempler oplever er ekstraordinære resultater og derfor ikke ment som en garanti for at du eller andre kommer til at opnå de samme resultater. Individuelle resultater varierer og afhænger udelukkende af din anvendelse af Profit Revolution.",
       "Denne webside er ikke ansvarlig for dine handlinger. Du har eneansvaret for dine handlinger og beslutninger, når du bruger vores produkter og tjenester, og derfor bør du altid udvise forsigtighed og rettidig omhu. Du accepterer at denne webside ikke på nogen måde er ansvarlig for følgerne af anvendelsen af vores produkter og tjenester. Se vores betingelser og vilkår for hele vores ansvarsfraskrivelse og andre restriktioner.",
-      "Denne webside kan modtage betaling for produkter og tjenester de anbefaler til dig. Hvis du ikke ønsker at denne webside skal få betaling for en anbefaling, anbefaler vi at du søger online efter et lignende produkt gennem et link fra en ikke-samhørende partner.",
-      "*Vidnesbyrd:",
-      "Alle personer, informationer og begivenheder der er skildret på denne webside, er udelukkende fiktive. Enhver lighed med virkelige begivenheder eller personer, levende eller døde, er helt tilfældig."
+      "Denne webside kan modtage betaling for produkter og tjenester de anbefaler til dig. Hvis du ikke ønsker at denne webside skal få betaling for en anbefaling, anbefaler vi at du søger online efter et lignende produkt gennem et link fra en ikke-samhørende partner."
     ],
     "bottom_info": [
       "Vi bruger cookies til at forstå hvordan du bruger vores side og til at forbedre din oplevelse. Det omfatter personlig tilpasning af indhold og annoncering. Ved at fortsætte med at bruge vores side accepterer du vores brug af cookies samt vores reviderede Fortrolighedspolitik og Betingelser for brug. Denne webside er en tekstreklame. ",
       "Mere information"
-    ]
-  },
-  "sv": {
-    "header_title": "– Textreklam –",
-    "header_subtitle": "Vi har ett rekordhögt antal nya användare.",
-    "title": "Upptäck din personliga guldgruva",
-    "subtitle": "Anslut dig till tusentals andra som investerar på guldmarknaden!",
-    "customers_name": [
-      "Amelia",
-      "Elsie",
-      "Fred",
-      "Henry",
-      "Ivy",
-      "Evelin"
     ],
-    "flag_img": "sv",
-    "status": " gick med",
-    "video_title": "Klicka för att titta och lära dig hemligheten!",
-    "title_form": "ÄNDRA DITT LIV IDAG!",
-    "first_name": "Förnamn",
-    "last_name": "Efternamn",
-    "email": "E-postadres",
-    "password": "Lösenord",
-    "phone_number": "Telefonnummer",
-    "pass2": "Confirm Password",
-    "button": "Få tillgång nu",
-    "agreement_first": "Jag godkänner att min e-postadress sparas i syfte att motta information och kommersiella erbjudanden angående programvara och plattformer för handel.",
-    "agreement_second": "Jag godkänner Användarvillkoren och Sekretesspolicyn",
-    "terms_links": "Användarvillkoren",
-    "privacy_links": "Sekretesspolicyn",
-    "button_last": "Få tillgång nu",
-    "passtest": [
-      "Lösenordet måste vara 8 tecken långt.",
-      "Det får inte innehålla specialtecken.",
-      "Det måste innehålla minst en bokstav.",
-      "Det måste innehålla minst en stor bokstav.",
-      "Det måste innehålla minst en siffra."
+    "menu_block": [
+      "Hvordan virker det?",
+      "Kendte mennesker om kryptovaluta",
+      "Kryptovaluta i medierne",
+      "Almindelige mennesker blev rige",
+      "Deltag nu"
     ],
-    "more_title": [
-      "Du kan när som helst ändra ditt beslut genom att klicka på länken för..."
-    ],
-    "more_decription": "att avsluta prenumeration i sidfoten i något av våra mejl. Vi kommer behandla din information med respekt. Genom att klicka ovan godkänner du att vi kan använda din information i enlighet med dessa bestämmelser.",
-    "join_title": "Med stigande guldpriser har det aldrig varit ett bättre läge att investera.",
-    "join_subtitle": "Registrera dig idag och säkra dina pengar genom att investera i guld!",
-    "join_description": "Guld har varit huvudindikatorn vid mätning av rikedom i hundratals år, och allt eftersom tekniken framskrider ger guld fortfarande en stabil standard för globala finanser. Efter finanskrisen 2008 var guld en av de få industrier som höll sig starka och dess långa historia och fysiska värde betyder att den kommer att överleva varje turbulent marknad.",
-    "invest_main_title": "Investera i guld med Golden Profit",
-    "invest_descriptions": [
-      {
-        "step": "STEG",
-        "name": "Registrera dig",
-        "text": [
-          "Det tar bara några få minuter att registrera ditt konto med Golden Profits strömlinjeformade inloggningssystem Fyll helt enkelt i dina uppgifter så gör vi resten.",
-          ""
-        ]
-      },
-      {
-        "step": "STEG",
-        "name": "Investera",
-        "text": [
-          "Du blir kontaktad av en av våra personliga mäklare som berättar exakt vad du behöver göra för att göra din första investering.",
-          "Minimibeloppet för insättning är 250 dollar (~2 250 kr)."
-        ]
-      },
-      {
-        "step": "STEG",
-        "name": "Handla",
-        "text": [
-          "När du har aktiverat ditt konto genom att sätta in pengar kan du börja investera i din framtid.",
-          ""
-        ]
-      }
-    ],
-    "blue_btn": "Registrera dig här ",
-    "trade_title": "Trenden talar för sig själv",
-    "trade_description": "Allteftersom fler och fler investerare börjar återuppta sitt intresse för guld har priserna börjat skjuta i höjden. Det är för att guld erbjuder mer säkerhet än någon annan vara och i en värld av växande ekonomisk omvälvning är säkerhet svår att hitta. Titta på diagrammet nedan för att se hur mycket guldpriset har ökat de senaste tolv månaderna.",
-    "famous_title": "Kända namn inom handeln",
-    "famous_description": "Det finns många stora namn inom handeln. Det här säger de mest kända inom handeln.",
-    "famous_body": [
-      {
-        "img": "elder",
-        "name": "Alexander Elder",
-        "text": "Du har din frihet Du kan bo och jobba var som helst i världen. Du är oberoende av rutiner och rapporterar inte till någon."
-      },
-      {
-        "img": "seykota",
-        "name": "Ed Seykota",
-        "text": "Vinst eller förlust, alla får vad de vill ha från marknaden. Vissa personer tenderar att förlora, så de vinner genom att förlora pengar."
-      },
-      {
-        "img": "oneil",
-        "name": "William O’Neil",
-        "text": "Det som verkar för högt och riskabelt för de flesta går ofta högre och det som står lågt och billigt går ofta lägre."
-      },
-      {
-        "img": "buffet",
-        "name": "Warren Buffett",
-        "text": "Du behöver inte vara en raketforskare. Investering är inte ett spel där killen med 160 i IQ slår killen med 130 i IQ."
-      }
-    ],
-    "benefits_title": "Fördelar med onlinehandel",
-    "benefits_subtitle": "Det är det bästa sättet att investera dina pengar",
-    "benefits_information": [
-      {
-        "img": "accurate",
-        "title": "Exakt handel",
-        "description": "Använd Golden PROFITs handelsuppdateringar i realtid för att fatta rätt beslut varje gång du handlar."
-      },
-      {
-        "img": "cutting",
-        "title": "Nyskapande teknologi",
-        "description": "Golden PROFIT använder den senaste handelsmotorn för att se till att all handel sker sömlöst och effektivt och för att säkerställa att du har det bästa skyddet som finns tillgängligt."
-      },
-      {
-        "img": "trading",
-        "title": "Handel du kan lita på",
-        "description": "Golden PROFIT är världsledande på onlinehandel och har erkänts globalt för sin intuitiva design och användarvänliga plattform."
-      }
-    ],
-    "table_title": "Onlinehandlare",
-    "table_head": [
-      "Användare",
-      "Tid",
-      "Registrerad"
-    ],
-    "table_inner": [
-      {
-        "name": "J******",
-        "img": "register"
-      },
-      {
-        "name": "K******",
-        "img": "register"
-      },
-      {
-        "name": "S******",
-        "img": "register"
-      },
-      {
-        "name": "M******",
-        "img": "register"
-      },
-      {
-        "name": "A******",
-        "img": "register"
-      },
-      {
-        "name": "L******",
-        "img": "register"
-      },
-      {
-        "name": "N******",
-        "img": "register"
-      },
-      {
-        "name": "B******",
-        "img": "register"
-      },
-      {
-        "name": "O******",
-        "img": "register"
-      },
-      {
-        "name": "P******",
-        "img": "register"
-      },
-      {
-        "name": "A******",
-        "img": "register"
-      },
-      {
-        "name": "G******",
-        "img": "register"
-      }
-    ],
-    "faq_title": "Vanliga frågor och svar",
-    "faq_question": [
-      {
-        "question": "JHur mycket kan jag tjäna?",
-        "answer": "Din vinst beror på dina val och insättningar. De som komponerar sitt intresse för att göra högt prissatta affärer kan tjäna mycket mer än de som handlar på lägre nivåer. Det beror emellertid på hur du väljer att handla."
-      },
-      {
-        "question": "Behöver jag någon erfarenhet av handel?",
-        "answer": "Golden PROFIT har designats för alla nivåer av investerare och kan ge dig de färdigheter och självförtroende du behöver för att handla på hög nivå. Plattformen innehåller informationen du behöver för att börja handla, oavsett om du är nybörjare eller professionell"
-      },
-      {
-        "question": "Hur mycket kostar det?",
-        "answer": "Vår plattform är helt gratis att använda. Allt du behöver är ett startkapital på 250 dollar (~2 250 kr) som du kan använda till handel."
-      },
-      {
-        "question": "Hur många medlemmar har ni?",
-        "answer": "Vi har över 250 000 användare världen runt som använder våra tjänster."
-      },
-      {
-        "question": "Vilka företag kan jag använda?",
-        "answer": "Du kan handla med alla offentliga företag från alla större börser i världen. Om du har hört talas om det kan du handla med det!"
-      }
-    ],
-    "second_form": "Starta ditt nya liv nu",
-    "disclaimer": [
-      "VIKTIGT: ",
-      "Intäkter och friskrivning",
-      "Intäkter och inkomster på Golden Profit, (samlat benämnt \"den här webbplatsen\") används bara som ambitiösa exempel på din intäktspotential. De framgångsberättelser och andra exempel som skildras är exceptionella resultat och därmed inte menade som någon garanti för att du eller någon annan kommer att uppnå samma resultat. Individuella resultat varierar och beror uteslutande på din användning av Golden Profit.",
-      "Den här webbplatsen är inte ansvarig för dina handlingar. Du bär ensam ansvaret för dina handlingar och beslut när du använder produkter och tjänster och du bör därför alltid vara försiktig och agera med tillbörlig aktsamhet. Du godkänner att den här webbplatsen inte på något sätt kan hållas ansvarig gentemot dig för resultatet av användandet av våra produkter och tjänster. Se våra användarvillkor för att läsa vår fullständiga ansvarsfriskrivning och andra begränsningar.",
-      "Den här webbplatsen kan få ersättning för de produkter och tjänster som de rekommenderar till dig. Om du inte vill att den här webbplatsen ska ersättas för en rekommendation råder vi dig att söka på nätet efter en liknande produkt via en länk som saknar sådan anknytning.",
-      "*Vitsord:",
-      "Alla personer, all information och alla händelser skildrade på den här webbplatsen är uteslutande fiktiva. Eventuella likheter med verkliga händelser eller personer, levande eller döda, är ren tillfällighet."
-    ],
-    "bottom_info": [
-      "Vi använder cookies för att förstå hur du använder vår webbplats och för att förbättra din upplevelse. Detta innefattar att personanpassa innehåll och reklam. Genom att fortsätta använda vår webbplats, godkänner du vår användning av cookies, vår reviderade integritetspolicy och våra användarvillkor. Den här webbplatsen är en annonsartikel. ",
-      "Mer information"
-    ]
+    "modal_title": "Vent!",
+    "modal_sub": "Før du går…",
+    "modal_text1": "Markederne bevæger sig hurtigt. Gå ikke glip af din chance for at drage fordel af de seneste stigninger og fald.",
+    "modal_text2": "Tilmeld dig i dag og slut dig til de tusindvis af mennesker, der ændrer deres liv takket være online handel."
   },
   "fi": {
-    "header_title": "– Advertoriaali –",
-    "header_subtitle": "Uusien käyttäjiemme määrä on ennennäkemätön.",
-    "title": "Löydä henkilökohtainen kultakaivoksesi",
-    "subtitle": "Liity tuhansiin ihmisiin, jotka sijoittavat kultamarkkinoille!",
-    "customers_name": [
-      "Amelia",
-      "Elsie",
-      "Fred",
-      "Henry",
-      "Ivy",
-      "Evelin"
-    ],
-    "flag_img": "fi",
-    "status": " liittyi",
-    "video_title": "Katso napauttamalla ja saat tietää salaisuuden!",
-    "title_form": "MUUTA ELÄMÄSI TÄNÄÄN!",
+    "header_title": "– Mainosreportaasi –",
+    "header_subtitle": "Meille rekisteröityy tällä hetkellä ennen näkemättömän paljon uusia käyttäjiä.",
+    "title": "Profit Revolution, tuottojen vallankumous, on täällä.",
+    "subtitle": "Julkkikset ovat ansainneet miljoonia bitcoineilla. Nyt on olemassa vielä helpompi tapa hyötyä kryptovaluutoista",
+    "video_title": "Napauta katsoaksesi ja selvittääksesi salaisuuden!",
+    "title_form": "",
     "first_name": "Etunimi",
     "last_name": "Sukunimi",
     "email": "Email",
     "password": "Salasana",
     "phone_number": "Puhelinnumero",
-    "pass2": "Confirm Password",
     "button": "Hanki käyttöoikeus nyt",
     "agreement_first": "Hyväksyn sähköpostiosoitteeni säilömisen, jotta voin vastaanottaa tietoja ja markkinointitarjouksia kaupankäyntiohjelmistoista ja -alustoista.",
     "agreement_second": "Hyväksyn säännöt ja ehdot ja tietosuojakäytännön",
     "terms_links": "säännöt ja ehdot",
     "privacy_links": "tietosuojakäytännön",
-    "button_last": "Hanki käyttöoikeus nyt",
+    "button_last": "REGISTER NOW",
     "passtest": [
       "Salasanan tulee olla 8 merkkiä pitkä.",
       "Ei saa sisältää erikoismerkkejä.",
@@ -861,175 +820,372 @@
       "Voit muuttaa asetusta milloin tahansa klikkaamalla sinulle lähettämämme..."
     ],
     "more_decription": "sähköpostin alatunnisteesta löytyvää linkkiä, josta tilauksen voi perua. Tietojasi käsitellään luottamuksellisesti. Klikkaamalla yltä hyväksyt, että voimme käsitellä tietojasi seuraavien ehtojen mukaisesti.",
-    "join_title": "Ikinä ei ole ollut parempaa aikaa sijoittaa kuin nyt, kun kullan hinta nousee.",
-    "join_subtitle": "Rekisteröidy tänään ja pidä rahasi hyvässä tallessa sijoittamalla kultaan!",
-    "join_description": "Kulta on ollut varallisuuden tärkein mittari satojen vuosien ajan, ja teollisuuden ja teknologioiden kehittyessä kulta tarjoaa vieläkinvankan kannan globaalille rahataloudelle. Vuoden 2008 finanssikriisin jälkeen kulta oli yksi niistä harvoista teollisuudenaloista, jotka pysyivät vahvoina, ja sen pitkä historia ja fyysinen arvo tarkoittavat, että se selviää kaikista markkinoiden häiriöistä.",
-    "invest_main_title": "Sijoita kultaan Golden Profitilla",
-    "invest_descriptions": [
+    "instruction": [
       {
-        "step": "VAIHE",
-        "name": "Rekisteröidy",
         "text": [
-          "Golden Profitin modernisoidulla rekisteröitymisjärjestelmällä tilisi rekisteröiminen kestää vain muutaman minuutin. Täytä vain tietosi ja me hoidamme loput.",
+          "Katso",
+          "video",
           ""
         ]
       },
       {
-        "step": "VAIHE",
-        "name": "Sijoita",
         "text": [
-          "Yksi henkilökohtaisista välittäjistämme ottaa sinuun yhteyttä ja kertoo mitä sinun pitää tarkalleen tehdä tehdäksesi ensimmäisen sijoituksesi.",
-          "Vaadittu vähimmäistalletussumma on 250 €."
-        ]
-      },
-      {
-        "step": "STEG",
-        "name": "Kaupankäynti",
-        "text": [
-          "Heti kun olet aktivoinut tilisi tallettamalla varasi, voit alkaa sijoittaa tulevaisuuteesi.",
+          "Täytä lomake luodaksesi",
+          "ilmaisen tilin",
           ""
         ]
+      },
+      {
+        "text": [
+          "Vastaanota ",
+          "ilmainen puhelu",
+          " asiantuntijalta"
+        ]
       }
     ],
-    "blue_btn": "Rekisteröidy täällä ",
-    "trade_title": "Trendi puhuu puolestaan",
-    "trade_description": "Sitä mukaa kun sijoittajat ovat taas kiinnostuneet kullasta, hinnat ovat lentäneet huippuunsa. Se johtuu siitä, että kulta tarjoaa enemmän turvallisuutta kuin mikään muu kauppatavara, ja kasvavan taloudellisen mullistuksen maailmassa turvallisuutta on vaikea löytää. Alla olevasta kaaviosta näet, miten paljon kullan hinta on noussut viimeisten 12 kuukauden aikana.",
-    "famous_title": "Kuuluisia kaupankäynnin nimiä",
-    "famous_description": "Kaupankäyntiin liittyy paljon suuria nimiä. Näin kertovat jotkut kuuluisimmista kaupankävijöistämme.",
-    "famous_body": [
+    "join_title_left": "Liity tänään ja aloita ansaitseminen",
+    "join_title_right": [
+      "100",
+      "TURVALLINEN",
+      "%"
+    ],
+    "join_subtitle_left": "Avaa ilmainen tilisi ja saat käyttöösi:",
+    "join_subtitle_right": "Rajaamaton turvallisuus",
+    "join_subtitle_right2": "Kun rekisteröidyt Profit Revolutioniin, voit luottaa rahojesi olevan turvassa. Järjestelmämme salaavat kaikki sopimukset ja saat täyden anonymiteetin.",
+    "join_description_left": [
       {
-        "img": "elder",
-        "name": "Alexander Elder",
-        "text": "Saat olla vapaa. Voit asua ja käydä kauppaa missä päin maailmaa tahansa. Olet vapaa rutiineista etkä joudu vastaamaan kenellekään."
+        "title": "Asiantuntija-apua",
+        "link": "Liity Profit Revolutioniin tänään",
+        "text": " ja saat 1-2-1 asiantuntijaneuvoja rahoitusalan ammattilaiselta. Hän ohjaa sinua askel askeleelta ja kertoo, mistä aloittaa ja miten tehdä tuottavia kauppoja."
       },
       {
-        "img": "seykota",
-        "name": "Ed Seykota",
-        "text": "Voitto tai häviö, kaikki saavat markkinoilta haluamansa. Jotkut ihmiset tuntuvat pitävän häviämisestä, joten he voittavat häviämällä rahaa."
+        "title": "Huippuluokan teknologiaa",
+        "text": "Profit Revolution käyttää viimeisintä teknologiaa, joka mahdollistaa parhaan kauppakokemuksen. Pystyt näkemään markkinapäivityksiä 24/7, joten et koskaan menetä mahdollisuutta ansaita."
       },
       {
-        "img": "oneil",
-        "name": "William O’Neil",
-        "text": "Se, mikä tuntuu enemmistön mielestä liian korkealta ja riskialttiilta, nousee yleensä korkeammalle, kun taas liian alhaiselta ja halvalta tuntuva yleensä laskee."
-      },
-      {
-        "img": "buffet",
-        "name": "Warren Buffett",
-        "text": "Tässä ei vaadita avaruustiedettä. Sijoittaminen ei ole peliä, jossa kaveri 160 ÄO:lla voittaa sen, jonka ÄO on 130."
+        "title": "Mahdollisuus välittömiin tuloihin",
+        "text": "Profit Revolution on tosiaankin nimensä mukainen, sillä se mahdollistaa tuottojen saamisen välittömästi. Kun saat tuottoja, rahat siirtyvät suoraan tilillesi ja pystyt nostamaan ne saman tien."
       }
     ],
-    "benefits_title": "Verkkokaupankäynnin hyödyt",
-    "benefits_subtitle": "Se on paras tapa sijoittaa rahaa",
-    "benefits_information": [
+    "join_description_right": [
+      "Kaikki ilmaiselle tilillesi tallettamasi varat ovat sinun omiasi. Voit käydä kauppaa, kerätä tuottoja ja nostaa ne milloin tahansa.",
+      "99,9 % käyttäjistä valitsevat Profit Revolutionin sen tarjoaman turvallisuuden tuoman vapauden vuoksi."
+    ],
+    "brown_btn": "Aloita tänään!",
+    "how_it_works_title": [
+      "MITEN",
+      "se toimii?"
+    ],
+    "how_it_works_description": [
       {
-        "img": "accurate",
-        "title": "Tarkka kaupankäynti",
-        "description": "Käytä Golden PROFITin reaaliaikaisia kaupankäyntipäivityksiä tehdäksesi oikeita päätöksiä aina kun käyt kauppaa."
+        "title": "Taloudellinen ekosysteemi",
+        "text": [
+          "Profit Revolution",
+          " ei ole pelkkää sijoittamista, vaan kyse on myös ",
+          ", joka tuo sinut yhteen muiden kanssa ympäri maailmaa. ",
+          " antaa sinulle mahdollisuuden tienata oikeaa rahaa kryptovaluutalla.",
+          "Sinut liitetään anonyymisti vallankumoukselliseen kyber-talouteen turvallisilla palvelimilla, ja pystyt lainaamaan ja tuottamaan valitsemasi arvoisilla kryptovaluutoilla."
+        ],
+        "links": "ekosysteemiin liittymisestä"
       },
       {
-        "img": "cutting",
-        "title": "Huipputeknologiaa",
-        "description": "Golden PROFIT käyttää uusinta kaupankäyntikonetta, jotta kaikki kaupankäyntisi sujuisi sulavasti ja tehokkaasta, ja jotta sinulla on paras mahdollinen suojaus."
+        "title": "Oikeaa tuottoa, oikeaan aikaan",
+        "text": [
+          "",
+          "Profit Revolution",
+          " avulla voit ",
+          ". Heti kun markkinoilla tapahtuu liikettä, voit ansaita rahaa, kiitos ",
+          " reaaliaikaisen kauppaikkunan ja 24/7 markkinasyötteen avulla."
+        ],
+        "links": "ansaita oikeita tuottoja välittömästi"
       },
       {
-        "img": "trading",
-        "title": "Kaupankäyntiä, johon voit luottaa",
-        "description": "Golden PROFIT on yksi maailman johtajista nettikaupankäynnissä ja se on saanut maailmanlaajuista tunnustusta intuitiivisen designinsa ja käyttäjäystävällisen alustansa ansiosta."
+        "title": "Uuden sukupolven teknologiaa",
+        "text": [
+          "Profit Revolution",
+          " käyttää huippuluokan teknologiaa, jonka avulla voit ansaita ja varmistaa turvallisuutesi. Saat ",
+          " varoihisi, ja pysyt 100 % anonyymina."
+        ],
+        "links": "kokonaisvaltaisen käyttöoikeuden"
+      },
+      {
+        "title": "Liity mukaan vallankumoukseen",
+        "text": [
+          "Me tuomme vallankumouksen luoksesi. Voit aloittaa vain ",
+          " ja sinuun ottaa yhteyttä asiantuntija, joka auttaa sinua ",
+          " ja ansaitsemaan ensimmäiset tuottosi."
+        ],
+        "links": [
+          "täyttämällä lomakkeen",
+          "avaamaan ilmaisen tilisi"
+        ]
       }
     ],
-    "table_title": "Verkkokauppiaat",
-    "table_head": [
-      "Käyttäjä",
-      "Aika",
-      "Rekisteröity"
+    "join_title": [
+      "MIKSI",
+      "minun pitäisi liittyä?"
     ],
-    "table_inner": [
+    "join_description": [
       {
-        "name": "J******",
-        "img": "register"
+        "class": "snoop",
+        "title": "Snoop Dogg",
+        "text": "Räppäri Snoop Dogg - joka tunnetusti sanoi vuonna 2013, että hänen seuraava levynsä voitaisiin ostaa Bitcoineilla - oli mukana Ripple Labsin konferenssissa vain kutsulla auki olevissa jatkobileissä."
       },
       {
-        "name": "K******",
-        "img": "register"
+        "class": "dan",
+        "title": "Dan Bilzerian",
+        "text": "\"Kaikille jotka kysyvät - minulla on 50 % bitcoineja, 25 % ETH:ta, 15 % moneroa ja 10 % bitcoin-käteistä,\" hän sanoi Twitterissä."
       },
       {
-        "name": "S******",
-        "img": "register"
+        "class": "ashton",
+        "title": "Ashton Kutcher",
+        "text": "Kutcher tiimeineen lahjoittivat 4 miljoonaa euroa Ripplen XRP-tokeneihin luonnon hyväntekeväisyyteen, Ellen DeGeneres Wildlife Fund -rahaston kautta."
       },
       {
-        "name": "M******",
-        "img": "register"
+        "class": "cent",
+        "title": "50 Cent",
+        "text": "50 Centin uhkapelaaminen Bitcoineilla on maksanut itsensä takaisin hyvin räppärin todettua kryptovaluuttasijoituksensa arvon olevan nyt miljoonia."
       },
       {
-        "name": "A******",
-        "img": "register"
+        "class": "mike",
+        "title": "Mike Tyson",
+        "text": "Entinen nyrkkeilijämestari Mike Tyson on vienyt kiinnostuksensa bitcoin-markkinoihin astetta pidemmälle julkaisemalla digitaalisen \"lompakon\" bitcoineille."
       },
       {
-        "name": "L******",
-        "img": "register"
+        "class": "gwyneth",
+        "title": "Gwyneth Paltrow",
+        "text": "Valtavirtaa? Gwyneth Paltrow mainostaa bitcoin-sijoittamisopasta Twitterissä. Gwyneth Paltrow:sta tuli viimeisin kryptovaluuttaa mainostava julkkis tänään, ainakin epäsuorasti, sillä hän twiittasi \"kysymyksiä ja vastauksia\" -twiitin Bill Barthydt -nimisen valuuttaoperaattorin kanssa Goop-nimisellä sivustollaan."
       },
       {
-        "name": "N******",
-        "img": "register"
+        "class": "paris",
+        "title": "Paris Hilton",
+        "text": "Paris Hiltonin hotellipohatta-isä myy 38 miljoonan euron kartanon kryptovaluutalla. Richard \"Rick\" Hilton, Hilton & Hylandin puheenjohtaja ja amerikkalaisen seurapiiri- ja tosi-TV-tähti Paris Hiltonin isä myy 38 miljoonan euron palatsinsa kryptovaluutta-huutokaupassa."
       },
       {
-        "name": "B******",
-        "img": "register"
+        "class": "bjork",
+        "title": "Björk",
+        "text": "Bjork haluaa ihmisten ostavan uuden albuminsa bitcoineilla. Islantilainen laulaja hyväksyy myös kolme vähemmän tunnettua kryptovaluuttaa: litecoin, dash ja AudioCoin. Perinteiset ostajat voivat edelleen maksaa kortilla tai PayPalilla."
       },
       {
-        "name": "O******",
-        "img": "register"
+        "class": "al",
+        "title": "Al Gore",
+        "text": "Uskon, että Bitcoin-universumissa algoritmi korvaa hallituksen toiminnot, ja se on aika siistiä. Olen Bitcoinin suuri fani."
       },
       {
-        "name": "P******",
-        "img": "register"
+        "class": "jack",
+        "title": "Jack Ma",
+        "text": "Blockchain-teknologia voi muuttaa maailmaamme enemmän kuin voimme kuvitellakaan."
       },
       {
-        "name": "A******",
-        "img": "register"
+        "class": "eric",
+        "title": "Eric Schmidt",
+        "text": "Bitcoin on merkittävä kryptograafinen saavutus ja kyky luoda jotakin, jota ei voida toisintaa digitaalisessa maailmassa, on uskomattoman arvokasta."
       },
       {
-        "name": "G******",
-        "img": "register"
+        "class": "bill",
+        "title": "Bill Gates",
+        "text": "Bitcoin on teknologian voimannäyte. Bitcoin on parempaa kuin perinteinen valuutta\n\nBlockhain poistaa tarpeen kolmannen osapuolen välikäsille, kuten pankille."
+      },
+      {
+        "class": "pitbull",
+        "title": "Pitbull",
+        "text": "Rap-artisi Pitbull on ilmoittanut, että hänen uusin valloituksensa on kansainvälinen blockchain-koodauskilpailu, jonka on tarkoitus sekoittaa musiikkiteollisuutta."
+      },
+      {
+        "class": "lionel",
+        "title": "Lionel Messi",
+        "text": "Yritän yleensä kiireisesti hajauttaa puolustuksia ja syvennyttyäni tarkemmin Blockchainiin ja hajautettuihin järjestelmiin, liityin innoissani SIRIN LABSIN lähettilääksi tehdäkseni blockhainista sopivamman älypuhelimiin tulevan käyttöjärjestelmän kanssa."
+      },
+      {
+        "class": "mel",
+        "title": "Mel B",
+        "text": "Rakastan sitä, miten uusi teknologia helpottaa elämäämme, ja minusta se on jännittävää. Bitcoin yhdistää fanini ympäri maailmaa yhdellä valuutalla."
+      },
+      {
+        "class": "johnny",
+        "title": "Johnny Depp",
+        "text": "Johnny Deppin on raportoitu liittoutuneen blockchain-perusteisen sisällönjakoalusta TaTaTu:n kanssa. Näyttelijä on sen kumppani tuotantoyhtiö Infinitum Nihilin kautta."
       }
     ],
-    "faq_title": "UKK",
-    "faq_question": [
+    "blue_block": [
+      "...voit lukea siitä mediasta ympäri maailmaa...",
+      "... ja jopa tavalliset ihmiset voivat ansaita sillä omaisuuden!"
+    ],
+    "news": [
       {
-        "question": "Kuinka paljon rahaa voin ansaita?",
-        "answer": "Voittosi riippuu päätöksistäsi ja panoksestasi. Niillä, jotka yhdistävät mielenkiintonsa hintavien kauppojen solmimiseen, on suuremmat mahdollisuudet ansaita paljon kuin niillä, jotka käyvät kauppaa matalammilla tasoilla. Se kuitenkin riippuu täysin siitä, miten haluat tehdä kauppaa."
+        "class": "first-article",
+        "title": "Kaikista tulee naurettavan rikkaita, paitsi sinusta",
+        "description": [
+          "Hiljattain Ripplen perustajasta tuli rikkaampi kuin Mark Zuckerberg. Toisena päivänä tuntematon lahjoittaja antoi 86 miljoonan bitcoin-omaisuuden Pineapple Fund -hyväntekeväisyysjärjestölle.",
+          "Teslassa huomattiin rekisterikilpio BLOCKHN. Ihmiset pyrkivät ostamaan bitcoineja luottokorteillaan. Kun Long Island Iced Tea ilmoitti vaihtavansa blockchainiin, sen osakekanta nousi 500 prosentilla päivässä.",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html"
       },
       {
-        "question": "Tarvitsenko kokemusta kaupankäynnistä?",
-        "answer": "Golden PROFIT on suunniteltu kaiken tasoisille kauppiaille, ja sen kautta saat taidot ja itsevarmuuden, joita tarvitset korkeatasoisempiin kauppoihin. Alustalla on kaikki tieto, mitä tarvitset aloittaaksesi kaupankäynnin, olitpa sitten täysin aloittelija tai ammattimainen liikemies."
+        "class": "second-article",
+        "title": "Bitcoin nousee 9000 eurolla Kryptorallin voittaessa osakekantoja, kiinnityksiä, kultaa ja öljyä",
+        "description": [
+          "Bitcoinin hinta nousi yli 9000 euron nostaen rajaa, joka on saanut kryptovaluutan voittamaan perinteiset varaluokat tänä vuonna.",
+          "Bitcoin saavutti maanantaina arvon 9396,33 euroa, 13 kuukauden jälkeen, tutkimussivusto CoinDeskin mukaan. Vaikka osakekannat, kiinnitykset, kulta ja öljy ovat kaikki ylöspäin tänä vuonna, bitcoin voitti ne kaikki. Bitcoinin ja kilpailevien digitaalisten valuuttojen arvo romahti viime vuonna.",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.wsj.com/articles/bitcoin-tops-9-000-as-crypto-rally-trounces-stocks-bonds-gold-and-oil-11560765681"
       },
       {
-        "question": "Kuinka paljon se maksaa?",
-        "answer": "Alustamme käyttö on täysin ilmaista. Tarvitset vain 250 euron alkupääoman, jonka voit itse käyttää sijoittamiseen ja kaupankäyntiin."
+        "class": "third-article",
+        "title": "Facebook saa tuottoja kryptomahdollisuuksien muuttuessa mielenkiintoisiksi",
+        "description": [
+          "Facebook Inc. (FB) osakekanta liikkuu ylöspäin markkinoiden odottaessa yrityksen kohutun, tiistaina 18. kesäkuuta tehdyn kryptovaluuttatarjouksen valkoista kirjaa.",
+          "Kalifornialaisen Menlo Parkin osakkeet nousivat lähes 2 prosenttiin ennen maanantain avausta, nostaen kesäkuun tuottoja Facebookin pahaenteisen toukokuun lopun jälkeen, jolla on hallussaa Jim Cramerin Action Alerts PLUS -hyväntekeväisyysjärjestö.",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://realmoney.thestreet.com/investing/stocks/facebook-stock-gains-as-market-finds-crypto-opportunity-intriguing-14992789"
       },
       {
-        "question": "Kuinka paljon jäseniä on?",
-        "answer": "Palveluitamme käyttää yli 250 000 jäsentä ympäri maailmaa."
+        "class": "fourth-article",
+        "title": "Bitcoinin pohjan & nykyisen hinnan ennustanut analyytikko sanoo, että lokakuussa arvo on 16 000 €",
+        "description": [
+          "Anonyymi analyytikko, joka on jo ennustanut bitcoinin saavuttavatn 9200 € heinäkuuhun 2019 mennessä, uskoo nyt, että bitcoin saavuttaa 16 000 € lokakuun 2019 loppuun mennessä. Analyytikko osui naulan kantaan ennustaessaan bitcoinin saavuttavan 9200 € heinäkuuhun 2019 mennessä julkaistuaan analyysinsa tammikuussa 2019.",
+          "Analyytikko aloittaa kertomalla, että olemme jo noususuhdanteessa - mutta pidä mielessäsi, että hän julkaisi tämän 21.2.19 - joten hän oli jo huomannut noususuhdanteen muodostumisen aikaisin tänä vuonna.",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://cryptopotato.com/the-analyst-who-predicted-bitcoins-bottom-current-price-says-16k-in-october/"
       },
       {
-        "question": "Mitä yhtiöitä voin käyttää?",
-        "answer": "Voit käydä kauppaa kaikissa julkisissa yhtiöissä kaikista maailman suurista pörsseistä käsin. Jos olet kuullut siitä, voit käydä sillä kauppaa!"
+        "class": "fifth-article",
+        "title": "Venäjän keskuspankki harkitsee digitaalisen valuutan julkaisua",
+        "description": [
+          "Venäjän keskuspankin johtaja on sanonut, että laitos saattaa jonakin päivänä julkaista oman digitaalisen valuuttansa.",
+          "Puheenjohtaja Elvira Nabiullina kertoi opiskelijakonferenssisa, että vaikka tällaista projektia \"ei voida toteuttaa välittömästi\", useat keskuspankit, mukaan lukien Venäjän keskuspankki, tutkivat mahdollisuutta, TASS raportoi lauantaina.",
+          "Avain keskuspankin digitaalisen valuutan (CBDC) hyödyntämiseen on hänen mukaansa se, että teknologian tulee varmistaa “luotettavuus ja jatkuvuus.” “Teknologioiden tulee olla kypsiä, myös Distributed Registry-teknologioiden osalta,” sanoi Nabiullina."
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.coindesk.com/russias-central-bank-is-considering-launching-a-digital-currency"
+      },
+      {
+        "class": "six-article",
+        "title": "Kryptomarkkinat pyrkivät 300 miljardin markkina-arvoon: bitcoin-käteinen, EOS, TRX, ADA-analyysi",
+        "description": [
+          "Kun katsotaan kryptovaluutan kokonaisvaltaista tuntikohtaista markkina-arvokaaviota, 255 miljardin ja 260 miljardin resistanssitasojen ylityksen jälkeen oli vahva nousu. Markkina-arvo rikkoi jopa 270 miljardin tason, ja se kävi hiljatain 278 miljardin alueella. Se korjaantui alaspäin, mutta 264 miljardin taso toimi vahvana tukena. Nykyinen hinta on positiivinen, ja se viittaa yli 275 miljardin ja 280 miljardin tasoihin. Jos kaikki menee hyvin, kryptomarkkinat saattavat saavuttaa tulevina päivinä jopa 300 miljardin tason. Siksi seuraavissa valuutoissa voi saada enemmän tuottoja: bitcoin, ETH, XRP, TRX, ADA, bitcoin cash, litecoin, EOS, stellar, IOTA, ICX, WAN ja muut altcoinit.",
+          "",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.newsbtc.com/2019/06/17/crypto-market-targets-300-billion-cap-bitcoin-cash-eos-trx-ada-analysis/"
+      },
+      {
+        "class": "seven-article",
+        "title": "Tässä on Erik Finman, teini-ikäinen bitcoin-miljonääri",
+        "description": [
+          "Erik Finman on yksi maailman nuorimmista bitcoin-miljonääreistä - saavutus, josta hän ei ujostele kertoa. 19-vuotiaan Instagram-syöte on täynnä mahtailevia kuvia hänen astuessaan ulos yksityiskoneesta tai makaamassa rahantäyteisellä sängyllä kuvatekstein: “Käteinen on niin arvotonta verrattuna Bitcoiniin, että aion nukkua sen päällä...”",
+          "",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.theguardian.com/technology/2018/jun/13/meet-erik-finman-the-teenage-bitcoin-millionaire"
+      },
+      {
+        "class": "eight-article",
+        "title": "Kaksi parasta ystävää, jotka ansaitsivat 2000 € kryptovaluutalla",
+        "description": [
+          "Parhaat ystävykset alkoivat tehdä kauppaa kryptovaluutalla vain muutama kuukausi sitten, ja he sanovat olevansa miljonäärejä ennen vuoden loppua aloitettuaan vain 5000 eurolla.",
+          "Daniel Colosi, 31 ja Stephen Lenoci, 34, jotka molemmat asuvat Sydneyn Bondin alueella, sanovat tarkkailleensa arvoituksellista uutta digitaalisen rahan maailmaa jo hetken aikaa.",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.dailymail.co.uk/news/article-5272869/Bitcoin-investors-say-theyll-millionaires-2019.html"
+      },
+      {
+        "class": "nine-article",
+        "title": "Tapaa mies, joka matkustaa ympäri maailmaa 25 miljoonan euron bitcoin-tuotoilla",
+        "description": [
+          "Herra Smith - joka pyysi minua muuttamaan hänen oikean nimensä - on matkustanut maailmaa luksus-tyyliin viimeisten neljän vuoden ajan. Hän lentää vain ykkösluokassa, majoittuu ainoastaan 5 tähden hotelleissa eikä ole tehnyt ruokaa kiitospäivän jälkeen. Viimeisten 30 päivän aikana hän on vieraillut Singaporessa, New Yorkissa, Las Vegasissa, Monacossa, Moskovassa, taas New Yorkissa, Zurichissa ja nyt Hong Kongissa. \"Ei ole koskaan tylsää\", hän sanoo ja nostaa shampanjalasinsa Gatsby-tyyliseen kippikseen. Sitten hän kertoi tarinansa.",
+          "",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/#2a6c48762615"
+      },
+      {
+        "class": "ten-article",
+        "title": "Tämä 25-vuotias ansaitsi omaisuuden bitcoineilla - nyt hän matkustaa ympäri maailmaa",
+        "description": [
+          "Jeremy Gardner palasi safarilta Etelä-Afrikasta - jonne hän lensi osallistuakseen paikalliseen Afrika Burn, Burning Man -festivaaliin - kun hän saapui taas matkapuhelinverkkoalueelle. Hän tarkisti Twitterin, jossa hän seuraa muita bitcoin-tarkkailijoita, nähdäkseen, miten hänen sijoituksillaan menee.",
+          "“Näin, että bitcoinin arvo oli rikkonut 2500 € - ja kaikki kryptovarat olivat räjähtäneet” Gardner kertoi Business Insiderille. “Ja yhtäkkiä arvoni oli viidessä tuplaantunut viidessä päivässä. Se oli minusta hullua.”",
+          ""
+        ],
+        "button": "Lue koko artikkeli ›",
+        "link": "http://nullrefer.com/?https://www.businessinsider.com/jeremy-gardner-bitcoin-entrepreneur-30-2017-8"
       }
     ],
-    "second_form": "Aloita uusi elämäsi nyt",
+    "your_turn": "Ja nyt on sinun vuorosi!",
+    "join_now_title": [
+      "Liity",
+      "nyt"
+    ],
+    "join_now_subtitle": "Profit Revolution aikoo valloittaa maailman vauhdilla ja nyt on sinun mahdollisuutesi päästä ajoissa mukaan.",
+    "join_now_text": [
+      "Maailman talous tulee käymään läpi valtavia muutoksia. Pankit katoavat kaduiltamme ja maailma muuttuu digitaaliseksi. Profit Revolutionin avulla voit ",
+      "ryhtyä toimeen tänään",
+      " ja ",
+      "alkaa tienata",
+      " kryptovaluutalla.",
+      "Huippuluokan teknologian ja vallankumouksellisen uuden tienaustavan ansiosta kryptovaluutta Profit Revolution on jo houkutellut monia tunnettuja kasvoja mukaan. Kanyesta Madonnaan, Bill Gatesista Richard Bransoniin, maailman rikkaimmat tähdet saavat jo tuottoja. Nyt on sinun vuorosi."
+    ],
+    "join_profit_title": "Liity Profit Revolutioniin tänään",
+    "join_profit_step1": [
+      "Askel 1",
+      "Rekisteröidy",
+      "Ei tarvitse odottaa viikkoja hyväksymistä. Täytä vain tietosi ja sinut rekisteröidään tänään."
+    ],
+    "join_profit_step2": [
+      "Askel 2",
+      "Sijoita",
+      "Saat puhelun asiantuntijalta, joka esittelee sinulle kaikki uskomattomat salaisuudet."
+    ],
+    "join_profit_step3": [
+      "Askel 3",
+      "Ansaitse",
+      "Kun olet rekisteröitynyt ja puhunut asiantuntijan kanssa, olet valmis aloittamaan tienaamisen. Se on niin helppoa."
+    ],
+    "last_title": [
+      "Liity",
+      "Profit Revolutioniin tänään"
+    ],
+    "doted_block": [
+      "Sijoittaminen on helpoin tapa turvata tulevaisuuden tulot. Nyt voit ansaita rahaa kryptovaluuttojen menestyksellä omasta kodistasi. Sinun tarvitsee vain:",
+      "Rekisteröityä tänään tehdäksesi ensimmäisen sijoituksen.",
+      "Sijoittaa tilillesi vähintään 250 €.",
+      "Vastaanottaa ilmainen puhelu rahoitusasiantuntijalta.",
+      "Aloittaa tienaaminen!"
+    ],
     "disclaimer": [
       "TÄRKEÄÄ: ",
       "Ansiot ja lailliset vastuuvapautukset",
-      "Ansioita ja tuloedustuksia, jotka on tehnyt Golden Profit, (myöhemmin \"tämä sivusto\", käytetään ainoastaan ansiomahdollisuuksiesi tavoitteellisina esimerkkeinä. Todistuksissa ja muissa esimerkeissä kertovien ihmisten menestykset ovat poikkeuksellisia tuloksia, eikä niitä voidaan siten pitää takeena siitä, että sinä tai muut saavuttaisivat samat tulokset. Yksilölliset tulokset vaihtelevat ja riippuvat täysin siitä, miten käytät sivustoa Golden Profit.",
+      "Ansioita ja tuloedustuksia, jotka on tehnyt Profit Revolution, (myöhemmin \"tämä sivusto\", käytetään ainoastaan ansiomahdollisuuksiesi tavoitteellisina esimerkkeinä. Todistuksissa ja muissa esimerkeissä kertovien ihmisten menestykset ovat poikkeuksellisia tuloksia, eikä niitä voidaan siten pitää takeena siitä, että sinä tai muut saavuttaisivat samat tulokset. Yksilölliset tulokset vaihtelevat ja riippuvat täysin siitä, miten käytät sivustoa Profit Revolution.",
       "Tämä sivusto ei ole vastuussa sinun toiminnastasi. Olet täysin vastuussa toiminnastasi ja päätöksistäsi käyttäessäsi tuotteita ja palveluita, ja siten sinun tulisi aina noudattaa varovaisuutta ja asianmukaista huolellisuutta. Hyväksyt, että tämä sivusto ei ole sinulle vastuussa millään tavalla tuloksista, jotka syntyvät tuotteidemme ja palveluidemme käytöstä. Katso käyttöehdoistamme koko vastuuvapautuslauseke ja muut rajoitukset.",
-      "Tämä sivusto voi saada korvausta tuotteista ja palveluista, joita se suosittelee sinulle. Mikä et halua tämän sivuston saavan korvausta suosituksista, suosittelemme etsimään verkosta vastaavan tuotteen liittoutumattoman linkin kautta.",
-      "*Todistukset:",
-      "Kaikki tällä sivulla esitetyt hahmot, tiedot ja tapahtumat ovat täysin fiktiivisiä. Kaikki samankaltaisuus oikeiden tapahtumien tai henkilöiden, elävien tai kuolleiden, kanssa on täysin sattumaa."
+      "Tämä sivusto voi saada korvausta tuotteista ja palveluista, joita se suosittelee sinulle. Mikä et halua tämän sivuston saavan korvausta suosituksista, suosittelemme etsimään verkosta vastaavan tuotteen liittoutumattoman linkin kautta."
     ],
     "bottom_info": [
       "Käytämme evästeitä ymmärtääksemme miten käytät sivustoamme ja parantaaksemme kokemustasi. Tähän kuuluu sisällön ja mainonnan personointi. Jatkamalla sivuston käyttöä hyväksyt evästeet, tarkistetun tietosuojakäytännön ja käyttöehdot. Tämä sivusto on advertoriaali. ",
       "Lisää tietoa"
-    ]
+    ],
+    "menu_block": [
+      "Miten se toimii?",
+      "Mitä tunnetut henkilöt sanovat kryptovaluutasta",
+      "Kryptovaluutta mediassa",
+      "Tavalliset ihmiset rikastuivat",
+      "Liity nyt"
+    ],
+    "modal_title": "Odota!",
+    "modal_sub": "Ennen kuin lähdet...",
+    "modal_text1": "Markkinat muuttuvat nopeasti. Älä ohita tilaisuuttasi hyötyä viimeisimmistä nousuista ja laskuista.",
+    "modal_text2": "Rekisteröidy tänään ja liity tuhansien muiden joukkoon, jotka muuttavat elämiään verkkokaupankäynnin ansiosta."
   },
   "nl": {
     "header_title": "– Publireportage –",
@@ -1242,34 +1398,23 @@
     ]
   },
   "es": {
-    "header_title": "– Publicidad –",
-    "header_subtitle": "Estamos obteniendo un número sin precedentes de nuevos usuarios.",
-    "title": "Descubre tu mina de oro personal",
-    "subtitle": "¡Únete a miles de personas que invierten en el mercado del oro!",
-    "customers_name": [
-      "Amelia",
-      "Elsie",
-      "Fred",
-      "Henry",
-      "Ivy",
-      "Evelin"
-    ],
-    "flag_img": "es",
-    "status": " se ha unido",
-    "video_title": "¡Pulsa para ver y descubrir el secreto!",
-    "title_form": "¡CAMBIA TU VIDA HOY!",
+    "header_title": "– Publirreportaje –",
+    "header_subtitle": "Estamos alcanzando un número sin precedentes de nuevos usuarios.",
+    "title": "Profit Revolution está aquí.",
+    "subtitle": "Las celebrities han hecho millones con los bitcoins. Ahora, es incluso más fácil conseguir beneficios desde las criptomonedas.",
+    "video_title": "¡Haz clic para ver y aprende el secreto!",
+    "title_form": "",
     "first_name": "Nombre",
     "last_name": "Apellido",
     "email": "Email",
     "password": "Contraseña",
     "phone_number": "Número de teléfono",
-    "pass2": "Confirm Password",
     "button": "Comienza Ya",
     "agreement_first": "Acepto que mi dirección de correo electrónico sea almacenada con el propósito de recibir información y ofertas comerciales sobre plataformas y software de compraventa.",
     "agreement_second": "Estoy de acuerdo con Términos y condiciones y Política de privacidad",
     "terms_links": "Términos y condiciones",
     "privacy_links": "Política de privacidad",
-    "button_last": "Comienza Ya",
+    "button_last": "REGISTER NOW",
     "passtest": [
       "La contraseña tiene que contener entre 8 caracteres.",
       "No puede contener caracteres especiales.",
@@ -1280,176 +1425,373 @@
     "more_title": [
       "Puedes cambiar de idea en cualquier momento haciendo clic en el enlace para darse..."
     ],
-    "more_decription": "de baja en el pie de página de cualquier correo que recibas de nosotros. Seremos respetuosos con tu información. Haciendo clic arriba aceptas que podamos procesar tu información de acuerdo a estos términos.",
-    "join_title": "Con los precios del oro subiendo, nunca ha habido un mejor momento para invertir.",
-    "join_subtitle": "¡Regístrate ya y mantén tu dinero seguro al invertir en oro!",
-    "join_description": "El oro ha sido la medida principal de la riqueza durante cientos de años y a medida que las industrias y las tecnologías avanzan, el oro sigue siendo un estándar sólido para las finanzas globales. Después de la crisis financiera de 2008, el oro fue una de las pocas industrias que se mantuvo fuerte y su larga historia y valor físico harán que sobreviva a todos los problemas del mercado.",
-    "invest_main_title": "Invierte en oro con Golden Profit",
-    "invest_descriptions": [
+    "more_decription": " de baja en el pie de página de cualquier correo que recibas de nosotros. Seremos respetuosos con tu información. Haciendo clic arriba aceptas que podamos procesar tu información de acuerdo a estos términos.",
+    "instruction": [
       {
-        "step": "PASO",
-        "name": "Regístrate",
         "text": [
-          "En tan solo unos minutos puedes registrar tu cuenta con el sistema de registro optimizado de Golden Profit. Simplemente rellena tus datos y nosotros haremos el resto.",
+          "Mira el",
+          "vídeo",
           ""
         ]
       },
       {
-        "step": "PASO",
-        "name": "Invierte",
         "text": [
-          "Uno de nuestros agentes personales contactará contigo y te dirá exactamente lo que debes hacer para realizar tu primera inversión.",
-          "La cantidad mínima a depositar es de 250 € ."
-        ]
-      },
-      {
-        "step": "PASO",
-        "name": "Opera",
-        "text": [
-          "Una vez que hayas activado tu cuenta al depositar fondos, podrás comenzar a invertir en tu futuro.",
+          "Rellena el formulario para crear tu",
+          "cuenta gratuita",
           ""
         ]
+      },
+      {
+        "text": [
+          "Recibe una ",
+          "llamada gratuita",
+          "de un experto"
+        ]
       }
     ],
-    "blue_btn": "Regístrate aquí ",
-    "trade_title": "La tendencia habla por sí misma",
-    "trade_description": "A medida que más y más inversores comienzan a recuperar el interés por el oro, los precios han comenzado a dispararse. Esto se debe a que el oro ofrece más seguridad que cualquier otro producto y en un mundo de agitación financiera creciente, la seguridad es difícil de encontrar. Mira la tabla siguiente para ver cuánto ha subido el precio del oro en los últimos 12 meses.",
-    "famous_title": "Inversores famosos",
-    "famous_description": "Hay muchas personas importantes invirtiendo. Esto es lo que dicen algunos de los inversores más famosos.",
-    "famous_body": [
+    "join_title_left": "Únete hoy y comienza a ganar",
+    "join_title_right": [
+      "100",
+      "SEGURO",
+      "%"
+    ],
+    "join_subtitle_left": "Abre tu cuenta gratuita y consigue acceso a:",
+    "join_subtitle_right": "Seguridad sin Restricciones",
+    "join_subtitle_right2": "Cuando te registras en Profit Revolution, puedes tener la tranquilidad de que no habrá problemas con tus finanzas. Nuestros sistemas encripta todos los contratos, dándole anonimato completo.",
+    "join_description_left": [
       {
-        "img": "elder",
-        "name": "Alexander Elder",
-        "text": "Puedes ser libre. Puedes vivir y trabajar en cualquier parte del mundo. Puedes ser independiente de la rutina y no responder ante nadie."
+        "title": "Ayuda experta",
+        "link": "Unete a Profit Revolution Hoy",
+        "text": " y conseguirás consejo individual de un experto financiero profesional. Te guiará paso a paso sobre como empezar tus beneficiosas transacciones."
       },
       {
-        "img": "seykota",
-        "name": "Ed Seykota",
-        "text": "Ganes o pierdas, todos obtienen lo que quieren del mercado. A algunas personas parece gustarles perder, así que ganan perdiendo dinero."
+        "title": "Tecnología de vanguardia",
+        "text": "Profit Revolution usa la última tecnología para traerte la mejor experiencia de transacción posible. Podrás ver las actualizaciones del mercado en vivo 24/7, así que nunca perderás la oportunidad para conseguir beneficios."
       },
       {
-        "img": "oneil",
-        "name": "William O’Neil",
-        "text": "Lo que parece demasiado alto y arriesgado para la mayoría, generalmente llega más alto, y lo que parece bajo y barato generalmente llega más bajo."
-      },
-      {
-        "img": "buffet",
-        "name": "Warren Buffett",
-        "text": "No necesitas ser un científico espacial. Invertir no es un juego en el que el tipo con el cociente intelectual de 160 gane al tipo con el cociente intelectual de 130."
+        "title": "Posibilidad de ganancias instantáneas",
+        "text": "Profit Revolution hace gala a su nombre permitiéndote conseguir beneficios instantáneamente. Una vez que consigas beneficios, el dinero irá directamente a tu cuenta y podrás retirarlo siempre que quieras."
       }
     ],
-    "benefits_title": "Beneficios de invertir en línea",
-    "benefits_subtitle": "Es la mejor manera de invertir tu dinero",
-    "benefits_information": [
+    "join_description_right": [
+      "Todos los fondos que deposites en tu cuenta gratuita, son tuyos. Puedes operar, beneficiarte y retirarlos en cualquier momento.",
+      "El 99.9% de los usuarios eligen Profit Revolution por la seguridad, y libertad financiera que proporciona."
+    ],
+    "brown_btn": "¡Comienza hoy!",
+    "how_it_works_title": [
+      "CÓMO",
+      "¿funciona?"
+    ],
+    "how_it_works_description": [
       {
-        "img": "accurate",
-        "title": "Operaciones precisas",
-        "description": "Utiliza las actualizaciones de operaciones en tiempo real de Golden PROFIT para tomar las decisiones correctas en todas y cada una de las operaciones que realices."
+        "title": "El Ecosistema Económico",
+        "text": [
+          "Profit Revolution",
+          "no se trata solo de inversión, se trata de ",
+          " que te conecta a otros alrededor del mundo. ",
+          " te da la oportunidad de ganar dinero real a partir de las criptomonedas.",
+          "Estarás conectado de forma anónima a la revolucionaria economía cibernética a través de servidores seguros y podrás pedir prestado, prestar y beneficiarte del valor de las criptomonedas que elijas."
+        ],
+        "links": "unirse a un ecosistema"
       },
       {
-        "img": "cutting",
-        "title": "Tecnología de última generación",
-        "description": "Golden PROFIT utiliza el último motor de operaciones para que todas tus operaciones funcionen sin problemas y de manera efectiva y para garantizar que tengas la mejor protección disponible."
+        "title": "Beneficio Real, en Tiempo Real",
+        "text": [
+          "Con ",
+          "Profit Revolution",
+          ", puedes ",
+          ". El segundo es que hay movimientos en los mercados, con los que puedes ganar, gracias a las ventanas de las operaciones ",
+          " en vivo los 24/7."
+        ],
+        "links": "obtener beneficios reales instantáneamente"
       },
       {
-        "img": "trading",
-        "title": "El modo de operar en el que puedes confiar",
-        "description": "Golden PROFIT está formado por líderes mundiales de la inversión en línea y ha sido reconocido a nivel mundial por su diseño intuitivo y su plataforma sencilla."
+        "title": "Tecnología de Próxima Generación",
+        "text": [
+          "Profit Revolution",
+          " emplea tecnología de vanguardia para ayudarte a ganar y asegurar tu seguridad. Tendrás ",
+          " a tus finanzas, mientras mantiene el 100% de anonimato."
+        ],
+        "links": "completo, acceso sin restringir"
+      },
+      {
+        "title": "Únete a la Revolución",
+        "text": [
+          "Te estamos llevando la revolución. Para comenzar, simplemente ",
+          " y se pondrá en contacto contigo un experto financiero que te ayudará ",
+          " y conseguir tus primeros beneficios."
+        ],
+        "links": [
+          "rellena el formulario",
+          "a abrir tu cuenta gratuita"
+        ]
       }
     ],
-    "table_title": "Inversores en línea",
-    "table_head": [
-      "Usuario",
-      "Hora",
-      "Registrado"
+    "join_title": [
+      "¿POR QUÉ",
+      "me debería unir?"
     ],
-    "table_inner": [
+    "join_description": [
       {
-        "name": "J******",
-        "img": "register"
+        "class": "snoop",
+        "title": "Snoop Dogg",
+        "text": "El rapero Snoop Dogg - afirmó en 2013 que su próximo disco estaría disponible en Bitcoin - se le trajo para cerrar la conferencia de Ripple Labs en una fiesta solo por invitación."
       },
       {
-        "name": "K******",
-        "img": "register"
+        "class": "dan",
+        "title": "Dan Bilzerian",
+        "text": "“Para todos los que me preguntan, tengo el 50% en bitcoin, 25% ETH, 15% monero and 10% bitcoin cash,” dijo en Twitter."
       },
       {
-        "name": "S******",
-        "img": "register"
+        "class": "ashton",
+        "title": "Ashton Kutcher",
+        "text": "Kutcher y su equipo donaron cuatro millones de euro en tokens Ripple’s XRP para ayudar la fundación para el cuidado y conservación de la vida salvaje \"The Ellen DeGeneres Wildlife Fund\"."
       },
       {
-        "name": "M******",
-        "img": "register"
+        "class": "cent",
+        "title": "50 Cent",
+        "text": "La apuesta que 50 Cent hizo en Bitcoin valió la pena después de que el rapero descubriera que su inversión en la criptomoneda ahora vale millones."
       },
       {
-        "name": "A******",
-        "img": "register"
+        "class": "mike",
+        "title": "Mike Tyson",
+        "text": "El campeón de boxeo Mike Tyson está cogiendo sus intereses en el mercado de bitcoin y va más allá con el lanzamiento de un \"monedero\" digital para la moneda bitcoin."
       },
       {
-        "name": "L******",
-        "img": "register"
+        "class": "gwyneth",
+        "title": "Gwyneth Paltrow",
+        "text": "¿Mainstream? En Twitter Gwyneth Paltrow promociona la Guía de Inversión de Bitcoin. Gwyneth Paltrow se convirtió en la última celebrity en promover la criptomoneda, al menos indirectamente, tuiteando un preguntas y respuestas con un operador de intercambio llamado Bill Barhydt del sitio web Goop."
       },
       {
-        "name": "N******",
-        "img": "register"
+        "class": "paris",
+        "title": "Paris Hilton",
+        "text": "El padre de Paris Hilton, y a su vez magnate de los hoteles, venderá una mansión valorada en 38 millones de euros en criptomonedas. Richard \"Rick\" Hilton, presidente de Hilton & Hyland y padre de la estrella de televisión estadounidense Paris Hilton, está vendiendo una mansión valorada en 38 millones de euros de Palazzetto por una subasta de criptomonedas."
       },
       {
-        "name": "B******",
-        "img": "register"
+        "class": "bjork",
+        "title": "Björk",
+        "text": "Björk quiere que la gente compre su nuevo disco en bitcoins. La cantante islandesa acepta tres tipo de criptomonedas: litecoin, dash y AudioCoin. Los más tradicionales pueden seguir pagando por tarjeta de crédito o PayPal."
       },
       {
-        "name": "O******",
-        "img": "register"
+        "class": "al",
+        "title": "Al",
+        "text": "Creo que el hecho de que dentro del universo Bitcoin un algoritmo reemplace las decisiones de los gobiernos es realmente lo que es genial. Soy un gran fan de Bitcoin."
       },
       {
-        "name": "P******",
-        "img": "register"
+        "class": "jack",
+        "title": "Jack Ma",
+        "text": "La tecnología Blockchain podrá cambiar nuestro mundo, más de lo que imaginamos."
       },
       {
-        "name": "A******",
-        "img": "register"
+        "class": "eric",
+        "title": "Eric Schmidt",
+        "text": "El Bitcoin es un logro criptográfico notable y la capacidad de crear algo que no se puede copiar en el mundo digital tiene un valor enorme."
       },
       {
-        "name": "G******",
-        "img": "register"
+        "class": "bill",
+        "title": "Bill Gates",
+        "text": "Bitcoin es una proeza. Bitcoin es mejor que cualquier moneda.\n\nBlockchain elimina la necesidad de una tercera parte intermediaria, como puede ser un banco."
+      },
+      {
+        "class": "pitbull",
+        "title": "Pitbull",
+        "text": "El rapero Pitbull ha anunciado que su último proyecto será una competición internacional de codificación blockchain para establecer una irrupción en la industria musical."
+      },
+      {
+        "class": "lionel",
+        "title": "Lionel Messi",
+        "text": "Habitualmente estoy ocupado tratando de descentralizar las defensas y después de profundizar en los sistemas descentralizados y de Blockchain, estoy encantado de unirme a SIRIN LABS como embajador para hacer que blockchain sea más amigable con su próximo sistema operativo para smartphones."
+      },
+      {
+        "class": "mel",
+        "title": "Mel B",
+        "text": "Adoro como la nueva tecnología hace nuestras vidas más fáciles, y para mí es excitante. Bitcoin une a todos mis fans alrededor del mundo usando solo una moneda."
+      },
+      {
+        "class": "johnny",
+        "title": "Johnny Depp",
+        "text": "Johny Depp podría estar asociándose con la plataforma de intercambio de contenido basado en blockchain, denominada TaTu. El actor formará parte de la sociedad a través de su productora \"Infinitum Nihil\"."
       }
     ],
-    "faq_title": "Preguntas frecuentes",
-    "faq_question": [
+    "blue_block": [
+      "...puedes leer sobre ello en todos los medios de comunicacón alrededor del mundo...",
+      "...e incluso las personas normales han hecho una fortuna con ello!"
+    ],
+    "news": [
       {
-        "question": "¿Cuánto puedo ganar?",
-        "answer": "Tus beneficios dependen de tus decisiones y aportes. Aquellos que calculan sus intereses para hacer más operaciones a precios altos, ganan mucho más que aquellos que hacen operaciones en niveles más bajos. Sin embargo, depende totalmente de cómo desees operar."
+        "class": "first-article",
+        "title": "Todo el Mundo se está haciendo realmente Rico y Tú No",
+        "description": [
+          "Hace poco el fundador de \"Ripple\" llegó a hacerse más rico incluso que Mark Zuckerberg. Otro día un donante anónimo",
+          "Se vio un Tesla con una placa de BLOCKHN. Las personas que buscan comprar Bitcoin con sus tarjetas de crédito están aumentando. Después que la compañía Long Island Iced Tea anunciara que se pasaría a blockchain, sus acciones aumentaron un 500 por ciento en un día.",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html"
       },
       {
-        "question": "¿Necesito alguna experiencia como inversor?",
-        "answer": "Golden PROFIT ha sido diseñado para inversores de todos los niveles y puede darte las habilidades y la confianza que necesitas para realizar operaciones de alto nivel. La plataforma incluye la información que necesitas para comenzar a operar, ya seas un principiante o un inversor profesional."
+        "class": "second-article",
+        "title": "Bitcoin supera los 9.000 € mientras Crypto Rally elimina acciones, Bonos, Oro y Petróleo",
+        "description": [
+          "Bitcoin aumentó su precio por encima de 9.000 €, extendiendo que aumento en las criptomonedas superen por mucho a las clases de activos tradicionales este año.",
+          "Bitcoin alcanzó el lunes 9.396,33 € durante 13 meses, según CoinDesk, un sitio de investigación. Aunque las acciones, los bonos, el oro y el petróleo subieron este año, el aumento de bitcoin los supera a todos. Los precios de bitcoin y monedas digitales rivales colapsaron el año pasado.",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.wsj.com/articles/bitcoin-tops-9-000-as-crypto-rally-trounces-stocks-bonds-gold-and-oil-11560765681"
       },
       {
-        "question": "¿Cuánto cuesta?",
-        "answer": "Nuestra plataforma es de uso completamente gratuito. Todo lo que necesitas es un capital inicial de 250 €, que es tuyo para invertir y operar."
+        "class": "third-article",
+        "title": "Facebook gana cuota en el mercado con la intigrante oportunidad que suponen las criptomonedas",
+        "description": [
+          "Las acciones de Facebook Inc. (FB) están subiendo mientras que el mercado sobre la tan esperada oferta de criptomonedas de la compañía el martes 18 de junio.",
+          "Las acciones de la compañía con sede en Menlo Park, California, subieron casi un 2% antes de la apertura del lunes, extendiendo las ganancias del mes de junio después de un final desfavorable para el mes de mayo para Facebook, que es holding de caridad de Action Alerts PLUS de Jim Cramer .",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://realmoney.thestreet.com/investing/stocks/facebook-stock-gains-as-market-finds-crypto-opportunity-intriguing-14992789"
       },
       {
-        "question": "¿Cuántos miembros hay?",
-        "answer": "Tenemos más de 250 000 miembros que utilizan nuestros servicios en todo el mundo."
+        "class": "fourth-article",
+        "title": "El Analista que Predijo el Precio Inferior y Actual de Bitcoin dice que alcanzará los 16K de euros en octubre",
+        "description": [
+          "Un analista anónimo, que predijo existosamente que el bitcoin alcanzaría 9.200 € para julio de 2019, ahora cree que el bitcoin alcanzará 16.000 € para octubre de 2019. El analista descubrió su predición que BTC alcanzaría 9.200 € rn julio de 2019 tras postear su analisis en enero de 2019.",
+          "El analista comienza afirmando que estamos en un mercado al alza, pero teniendo en cuenta que lo había publicado el 21/01/19, por lo que ya había notado que el mercado al alza se estaba gestando a principios de año.",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://cryptopotato.com/the-analyst-who-predicted-bitcoins-bottom-current-price-says-16k-in-october/"
       },
       {
-        "question": "¿Qué empresas puedo usar?",
-        "answer": "Puedes operar con todas las empresas públicas de las principales bolsas de valores del mundo. ¡Si has oído hablar de ella, puedes operar con ella!"
+        "class": "fifth-article",
+        "title": "El Banco Central Ruso está Considerando Lanzar un Moneda Digital",
+        "description": [
+          "El director del banco central de Rusia ha dicho que la institución podría un día lanzar su propia moneda digital.",
+          "La presidenta, Elvira Nabiullina, dijo en una conferencia de estudiantes que, si bien tal proyecto “no podía realizarse de manera inmediata,” varios bancos centrales, incluyendo el Banco de Ruisa, están investigando la posibilidad, según informó TASS el sábado.",
+          "La clave para la utilidad del banco de la moneda digital (CBDC), dijo, es que la tecnología debe asegurar “la fiabilidad y la continuidad.”“Las tecnologías deben ser maduras, incluyendo las tecnologías de los registros distribuidos,” dijo Nabiullina."
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.coindesk.com/russias-central-bank-is-considering-launching-a-digital-currency"
+      },
+      {
+        "class": "six-article",
+        "title": "Crypto Market apunta a un límite de 300 mil millones de euros: Bitcoin Cash, EOS, TRX, ADA Analysis",
+        "description": [
+          "Según el gráfico horario del límite total del mercado de criptomonedas, hubo un fuerte movimiento al alza después de la ruptura por encima de los niveles de resistencia de 255.0 B de euros y 260.0 B de euros. La capitalización de mercado rompió incluso el nivel de 270.0 B de euros y probó recientemente la zona de 278.0 B de euros. Se corrigió a la baja, pero el nivel de 264.0 B de euros actuó como un fuerte soporte. La acción del precio actual es positiva, lo que sugiere más ganancias por encima de los niveles de 275.0 B de euros y 280.0 B de euros. Si todo va bien, el mercado de cifrado podría incluso probar el nivel de 300.00 B de euros en los próximos días. Por lo tanto, se pueden obtener más ganancias en bitcoin, ETH, XRP, TRX, ADA, bitcoin cash, litecoin, EOS, estelar, IOTA, ICX, WAN y otras monedas alternativas.",
+          "",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.newsbtc.com/2019/06/17/crypto-market-targets-300-billion-cap-bitcoin-cash-eos-trx-ada-analysis/"
+      },
+      {
+        "class": "seven-article",
+        "title": "Conozca a Erik Finman, el adolescente millonario en bitcoins",
+        "description": [
+          "Erik Finman es uno de los millonarios más joven en bitcoin - un logro del que está orgullos. El Instragram de este joven de 19 años, está lleno de fotos ostentosas de él mismo entrando en jets privados o tumbado en camas cubiertas de dinero con frases como: “El dinero vale tan poco comparado con los bitcoins que duermo incluso encima de él...”",
+          "",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.theguardian.com/technology/2018/jun/13/meet-erik-finman-the-teenage-bitcoin-millionaire"
+      },
+      {
+        "class": "eight-article",
+        "title": "Dos buenos amigos que hicieron 2.000 € en un día operando con criptomoneda",
+        "description": [
+          "Los dos mejores amigos que comenzaron a operar con criptomonedas hace unos meses dicen que serán millonarios antes de terminar el año, habiendo empezado solo con 5.000 €.",
+          "Daniel Colosi de 31, y Stephen Lenoci de 34, que llaman hogar al suburbio de Sídney Bondi, dicen que habían estado echando un ojo al número misterioso mundo de la moneda online durante un tiempo.",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.dailymail.co.uk/news/article-5272869/Bitcoin-investors-say-theyll-millionaires-2019.html"
+      },
+      {
+        "class": "nine-article",
+        "title": "Conozca al Hombre Viajero Alrededor del Mundo con 25 Millones de Euros de Beneficio de Bitcoins",
+        "description": [
+          "El Sr. Smith, que me pidió que ocultara su nombre real, ha estado viajando por el mundo con un estilo ultra lujoso durante los últimos cuatro años. Solo vuela en primera clase, se queda exclusivamente en suites de 5 estrellas y no ha cocinado desde el Día de Acción de Gracias. En los últimos treinta días visitó Singapur, Nueva York, Las Vegas, Mónaco, Moscú, regresó a Nueva York, Zúrich y ahora a Hong Kong. \"Nunca hay ningún momento aburrido\", dice, levantando su copa de champán en un saludo al estilo Gatsby. Luego compartió su historia.",
+          "",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/#2a6c48762615"
+      },
+      {
+        "class": "ten-article",
+        "title": "Este chico de 25 años hizo una fortuna en bitcoins, y ahora viaja alrededor del mundo.",
+        "description": [
+          "Jeremy Gardner acababa de regresar de un safari por Sudáfrica, a donde voló para asistir a AfrikaBurn, un festival regional de Burning Man, cuando volvió su cobertura. Echó un vistazo a Twitter, donde seguía a otros observadores de bitcoin, para ver como iban sus inversiones.",
+          "“Vi que bitcoin había superado como 2.500 € — así como todos los activos criptográficos habían disparado su valor,” Gardner le comentó a Business Insider. “Y todo de repente, el valor de toda mi inversión se había duplicado. Eso, para mí, fue una locura.\"",
+          ""
+        ],
+        "button": "Lee el artículo completo ›",
+        "link": "http://nullrefer.com/?https://www.businessinsider.com/jeremy-gardner-bitcoin-entrepreneur-30-2017-8"
       }
     ],
-    "second_form": "Comienza ya tu nueva vida",
+    "your_turn": "¡Ahora es tu turno!",
+    "join_now_title": [
+      "Únete",
+      "ahora"
+    ],
+    "join_now_subtitle": "Profit Revolution está a punto de conquistar al mundo y esta es tu oportunidad de llegar a tiempo.",
+    "join_now_text": [
+      "Las economías mundiales van a sufrir grandes cambios. Están desapareciendo de nuestras calles los bancos y todo pasa por el mundo digital. Profit Revolution te permitirá ",
+      "pasar a la acción hoy",
+      " y ",
+      "comenzar a ganar",
+      " con las criptomonedas.",
+      "Gracias a la tecnología de vanguardia, y a una nueva revolucionaria manera de ganar, la criptomoneda Profit Revolution ya ha atraído a muchas caras famosas. Desde Kanye hasta Madonna, Bill Gates a Richard Branson, las estrellas más ricas ya están obteniendo beneficios. Ahora es tu turno."
+    ],
+    "join_profit_title": "Join the Profit Revolution Today",
+    "join_profit_step1": [
+      "Paso 1",
+      "Regístrate",
+      "Sin necesitar de esperar semanas para ser aceptado. Simplemente rellena tus datos y te registrarás hoy mismo."
+    ],
+    "join_profit_step2": [
+      "Paso 2",
+      "Invierte",
+      "Recibirás una llamada de un consejero experto que te introducirá en todos los secretos de este mundo."
+    ],
+    "join_profit_step3": [
+      "Paso 3",
+      "Gana",
+      "Una vez que estés registrado y que hayas hablado con un experto, comenzarás a ganar. Tan simple como eso."
+    ],
+    "last_title": [
+      "Únete",
+      "Profit Revolution Hoy"
+    ],
+    "doted_block": [
+      "Invertir es la manera más fácil de asegurar tus futuros ingresos. Ahora, puedes ganar dinero con éxito de las criptomonedas, desde la comodidad de tu casa. Todo lo que tienes que hacer es:",
+      "Registrarte hoy para hacer tu primera inversión.",
+      "Tener un mínimo de fondos en tu cuenta de 250 €.",
+      "Recibir una llamada gratuita de un asesor financiero.",
+      "¡Comienza a ganar!"
+    ],
     "disclaimer": [
       "IMPORTANTE: ",
       "Beneficios y exención de responsabilidad",
-      "Golden Profit, se encarga de las representaciones de beneficios e ingresos (en conjunto, este sitio web solo se usa como ejemplo con aspiraciones de su potencial de beneficios). El éxito de las empresas de ejemplo es un resultado excepcional y, por lo tanto, no garantiza que usted u otros obtengan los mismos resultados. Los resultados individuales variarán y dependerán totalmente del uso de Golden Profit.",
+      "Profit Revolution, se encarga de las representaciones de beneficios e ingresos (en conjunto, este sitio web solo se usa como ejemplo con aspiraciones de su potencial de beneficios). El éxito de las empresas de ejemplo es un resultado excepcional y, por lo tanto, no garantiza que usted u otros obtengan los mismos resultados. Los resultados individuales variarán y dependerán totalmente del uso de Profit Revolution.",
       "Este sitio web no se hace responsable de sus acciones. Usted es la única persona responsable de sus acciones y decisiones cuando utiliza productos y servicios y, por lo tanto, siempre debe actuar con diligencia y precaución. Usted acepta que este sitio web no se hace responsable de los resultados del uso de nuestros productos y servicios. Consulte nuestras condiciones sobre la exención total de responsabilidad y otras restricciones.",
-      "Este sitio web puede recibir compensaciones por los productos y servicios que le recomiendan. Si no desea que este sitio web reciba compensaciones por las recomendaciones, le sugerimos que busque por internet un producto similar con un enlace no asociado.",
-      "*Ejemplos:",
-      "Los personajes, la información y los eventos que se muestran en este sitio web son completamente ficticios. Cualquier similitud con acontecimientos reales o personas, vivas o muertas, es mera coincidencia."
+      "Este sitio web puede recibir compensaciones por los productos y servicios que le recomiendan. Si no desea que este sitio web reciba compensaciones por las recomendaciones, le sugerimos que busque por internet un producto similar con un enlace no asociado."
     ],
     "bottom_info": [
       "Utilizamos cookies para saber cómo utiliza nuestra web y mejorar su experiencia. Esto incluye publicidad y contenidos personalizados. Al continuar utilizando nuestra web, acepta el uso de cookies, la política de privacidad actualizada y las condiciones de uso. Este sitio web es un publirreportaje. ",
       "Más información"
-    ]
+    ],
+    "menu_block": [
+      "¿Cómo funciona?",
+      "Famosos sobre criptografía",
+      "Criptografía en los medios",
+      "Gente común se hizo rica",
+      "Únete ahora"
+    ],
+    "modal_title": "¡Espere!",
+    "modal_sub": "Antes de que se vaya...",
+    "modal_text1": "Los mercados se están moviendo rápido. No se pierda la oportunidad de beneficiarse de las últimas subidas y bajadas.",
+    "modal_text2": "Regístrese hoy y únase a las miles de personas que están cambiando sus vidas gracias a la compraventa de valores en línea."
   },
   "it": {
     "header_title": "– Advertorial –",
@@ -1872,34 +2214,23 @@
     ]
   },
   "de": {
-    "header_title": "– Werbeanzeige –",
-    "header_subtitle": "Wir haben eine beispiellose Anzahl neuer Nutzer.",
-    "title": "Entdecken Sie Ihre persönliche Goldgrube",
-    "subtitle": "Investieren Sie in den Goldmarkt wie tausend andere Menschen es auch tun!",
-    "customers_name": [
-      "Amelia",
-      "Elsie",
-      "Fred",
-      "Henry",
-      "Ivy",
-      "Evelin"
-    ],
-    "flag_img": "de",
-    "status": " Beigetreten",
-    "video_title": "Tippen Sie hier, um das Geheimnis zu erfahren!",
-    "title_form": "ÄNDERN SIE HEUTE IHR LEBEN!",
+    "header_title": "– Advertorial –",
+    "header_subtitle": "Wir bekommen eine bislang unerreichte Zahl neuer Nutzer.",
+    "title": "Die Profit-Revolution ist da.",
+    "subtitle": "Prominente haben Millionen mit Bitcoin verdient. Jetzt gibt es einen noch einfacheren Weg, um von Kryptowährungen zu profitieren.",
+    "video_title": "Tippen Sie, um mehr über das Geheimnis zu erfahren!",
+    "title_form": "",
     "first_name": "Vorname",
     "last_name": "Nachname",
     "email": "E-Mail-Adresse",
     "password": "Passwort",
     "phone_number": "Telefon",
-    "pass2": "Confirm Password",
     "button": "Beginnen Sie jetzt",
     "agreement_first": "Ich bin damit einverstanden, dass meine E-Mail-Adresse gespeichert wird, damit ich Informationen und kommerzielle Angebote über Handelssoftware und -plattformen erhalte.",
     "agreement_second": "Mit den allgemeinen Geschäftsbedingungen und der Datenschutzerklärung erkläre ich mich einverstanden",
     "terms_links": "allgemeinen Geschäftsbedingungen",
     "privacy_links": "Datenschutzerklärung",
-    "button_last": "Rozpocznij teraz",
+    "button_last": "REGISTER NOW",
     "passtest": [
       "Das Passwort muss 8 Zeichen lang.",
       "Es dürfen keine Sonderzeichen enthalten sein.",
@@ -1911,175 +2242,372 @@
       "Ihre Meinung können Sie jederzeit ändern, indem Sie auf den Abmeldelink in der..."
     ],
     "more_decription": "Fußzeile jeder von uns erhaltenen E-Mail klicken. Wir werden mit Ihren Daten sorgsam umgehen. Wenn Sie oben klicken, dürfen wir Ihre Daten gemäß diesen Bedingungen verarbeiten.",
-    "join_title": "Mit steigenden Goldpreisen, war die Zeit noch nie so günstig zum investieren.",
-    "join_subtitle": "Registrieren Sie sich heute and sichern Sie Ihr Geld mit Gold Investitionen!",
-    "join_description": "Gold ist seit Hunderten von Jahren das wichtigste Maß für den Wohlstand. Mit den fortschreitenden Branchen und Technologien bietet Gold nach wie vor einen soliden Standard für globale Finanzen. Nach dem Finanzcrash von 2008 war Gold eine der wenigen Branchen, die stark blieben. Aufgrund seiner langen Geschichte und seines physischen Werts wird Gold jede Krise am Markt überleben.",
-    "invest_main_title": "Investieren Sie in Gold mit Golden Profit",
-    "invest_descriptions": [
+    "instruction": [
       {
-        "step": "SCHRITT",
-        "name": "Registrieren",
         "text": [
-          "Einen Konto zu eröffnen dauert nur ein paar Minuten mit Golden Profit's optimierten Anmeldesystem. Sie müssen lediglich Ihre Daten eintragen, wir machen den Rest.",
+          "Sehen Sie sich das",
+          "Video an",
           ""
         ]
       },
       {
-        "step": "SCHRITT",
-        "name": "Investieren",
         "text": [
-          "Einer unserer Broker wird Sie kontaktieren, um Ihnen zu erklären was Sie tun müssen, um Ihre erste Investition zu tätigen.",
-          "Der Mindestbetrag für eine Einzahlung beträgt 250€."
+          "Füllen Sie das Formular aus, um Ihr",
+          "kostenloses Konto",
+          "zu erstellen"
         ]
       },
       {
-        "step": "SCHRITT",
-        "name": "Handeln",
         "text": [
-          "Sobald Sie Ihren Account durch die Überweisung des nötigen Kapitals aktiviert haben, können Sie anfangen in Ihre Zukunft zu investieren.",
+          "Erhalten Sie Ihren ",
+          "kostenlosen Anruf",
+          "von einem Experten"
+        ]
+      }
+    ],
+    "join_title_left": "Melden Sie sich noch heute an und fangen Sie an, Geld zu verdienen",
+    "join_title_right": [
+      "100",
+      "SICHER",
+      "%"
+    ],
+    "join_subtitle_left": "Eröffnen Sie Ihr kostenloses Konto und erhalten Sie Zugang zu:",
+    "join_subtitle_right": "Uneingeschränkte Sicherheit",
+    "join_subtitle_right2": "Wenn Sie sich bei Profit Revolution anmelden, müssen Sie sich keine Sorgen um Ihre Finanzen machen. Unsere Systeme verschlüsseln alle Verträge und bieten Ihnen absolute Anonymität.",
+    "join_description_left": [
+      {
+        "title": "Expertenhilfe",
+        "link": "Nehmen Sie noch heute an der Profit-Revolution teil.",
+        "text": " und Sie erhalten einen direkten Expertenrat von einem Finanzprofi. Er wird Sie Schritt für Schritt durch den Einstieg und die Erstellung profitabler Trades führen."
+      },
+      {
+        "title": "Modernste Technologie",
+        "text": "Profit Revolution verwendet die neueste Technologie, um Ihnen das bestmögliche Handelserlebnis zu bieten. Sie können rund um die Uhr live Markt-Aktualisierungen verfolgen, so dass Sie keine Gelegenheit verpassen, etwas zu verdienen."
+      },
+      {
+        "title": "Möglichkeit der sofortigen Gewinne",
+        "text": "Profit Revolution macht seinem Namen alle Ehre, indem es Ihnen ermöglicht, sofort Gewinne zu erzielen. Sobald Sie einen Gewinn erzielt haben, geht das Geld direkt auf Ihr Konto und Sie können es sofort abheben."
+      }
+    ],
+    "join_description_right": [
+      "Alle Gelder, die Sie auf Ihr kostenloses Konto einzahlen, gehören Ihnen. Sie können jederzeit handeln, profitieren und abheben.",
+      "99.9% der Nutzer entscheiden sich für Profit Revolution wegen der damit verbundenen sicheren finanziellen Freiheit."
+    ],
+    "brown_btn": "Beginnen Sie noch heute!",
+    "how_it_works_title": [
+      "WIE",
+      "es funktioniert?"
+    ],
+    "how_it_works_description": [
+      {
+        "title": "Das wirtschaftliche Ökosystem",
+        "text": [
+          "Profit Revolution",
+          "geht es nicht nur um Investitionen, sondern auch darum, ",
+          " das Sie mit anderen auf der ganzen Welt verbindet. ",
+          "gibt Ihnen die Möglichkeit, mit Kryptowährungen echtes Geld zu verdienen.",
+          "Sie werden über sichere Server anonym mit der revolutionären Cyber-Wirtschaft verbunden und können den Wert der Kryptowährungen Ihrer Wahl entleihen, beleihen und davon profitieren."
+        ],
+        "links": "einem Ökosystem beizutreten,"
+      },
+      {
+        "title": "Realer Gewinn in Echtzeit",
+        "text": [
+          "Mit ",
+          "Profit Revolution",
+          " können Sie ",
+          ". Zum anderen gibt es Bewegungen in den Märkten, an denen Sie verdienen können, dank der Live-Trading-Windows von ",
+          "und der 24/7 Live-Market-Feeds."
+        ],
+        "links": "sofort echte Gewinne erzielen"
+      },
+      {
+        "title": "Zukunftsweisende Technologie",
+        "text": [
+          "Profit Revolution",
+          "verwendet modernste Technologie, um Ihnen zu helfen, Gewinne zu erzielen und Ihre Sicherheit zu gewährleisten. Sie haben ",
+          " zu Ihren Finanzen, wobei Sie 100%ig anonym bleiben."
+        ],
+        "links": "vollständigen, uneingeschränkten Zugang"
+      },
+      {
+        "title": "Nehmen Sie an der Revolution teil",
+        "text": [
+          "Wir bringen Ihnen die Revolution. Um zu beginnen, ",
+          "  und Sie werden von einem Profit-Experten kontaktiert, der Ihnen helfen wird, ",
+          " und Ihre ersten Gewinne zu erzielen."
+        ],
+        "links": [
+          "füllen Sie einfach das Formular aus",
+          "Ihr kostenloses Konto zu eröffnen"
+        ]
+      }
+    ],
+    "join_title": [
+      "WARUM",
+      "sollte ich mitmachen?"
+    ],
+    "join_description": [
+      {
+        "class": "snoop",
+        "title": "Snoop Dogg",
+        "text": "Rapper Snoop Dogg - der bekanntlich 2013 sagte, dass man seine nächste Platte auch in Bitcoin bezahlen könne - wurde von Ripple Labs eingeladen, die Konferenz auf einer geschlossenen After-Party zu beenden."
+      },
+      {
+        "class": "dan",
+        "title": "Dan Bilzerian",
+        "text": "\"Für alle, die es interessiert, ich habe in 50% Bitcoin, 25% ETH, 15% Monero und 10% Bitcoin Cash investiert\" sagte er auf Twitter."
+      },
+      {
+        "class": "ashton",
+        "title": "Ashton Kutcher",
+        "text": "Kutcher und sein Team spendeten 4 Millionen Euro in Ripple's XRP-Token, um der Wildtier-Organisation The Ellen DeGeneres Wildlife Fund zu helfen."
+      },
+      {
+        "class": "cent",
+        "title": "50 Cent",
+        "text": "50 Cent‘s Wette auf Bitcoin hat sich gut ausgezahlt, nachdem der Rapper entdeckt hat, dass seine Investition in die Kryptowährung jetzt Millionen wert ist."
+      },
+      {
+        "class": "mike",
+        "title": "Mike Tyson",
+        "text": "Der ehemalige Boxchampion Mike Tyson erwirbt weitere Anteile am Bitcoin-Markt seit der Einführung einer digitalen \"Brieftasche\" für die digitale Währung Bitcoin."
+      },
+      {
+        "class": "gwyneth",
+        "title": "Gwyneth Paltrow",
+        "text": "Mainstream? Gwyneth Paltrow wirbt für Bitcoin Investing Guide auf Twitter. Gwyneth Paltrow wurde zur neuesten Berühmtheit, die gerade, zumindest indirekt, für Kryptowährungen wirbt und hat mit einem Börsenbetreiber namens Bill Barhydt von der Website Goop ein Q&A getwittert."
+      },
+      {
+        "class": "paris",
+        "title": "Paris Hilton",
+        "text": "Paris Hilton's Hotel-Mogul-Vater verkauft 38 Millionen Euro Villa in Kryptowährung. Richard \"Rick\" Hilton, Chairman von Hilton & Hyland und Vater des amerikanischen Promi- und Reality-TV-Stars Paris Hilton, verkauft die 38 Millionen Euro teure Palazzetto-Villa durch eine Kryptowährungsauktion."
+      },
+      {
+        "class": "bjork",
+        "title": "Björk",
+        "text": "Björk möchte, dass die Leute ihr neues Album mit Bitcoin kaufen. Die isländische Sängerin akzeptiert auch drei weniger bekannte Kryptowährungen: Litecoin, Dash und AudioCoin. Traditionalisten können weiterhin mit Kreditkarte oder PayPal bezahlen."
+      },
+      {
+        "class": "al",
+        "title": "Al",
+        "text": "“Ich denke, die Tatsache, dass innerhalb des Bitcoin-Universums ein Algorithmus die Funktionen der Regierung ersetzt, ist eigentlich ziemlich cool. Ich bin ein großer Fan von Bitcoin.“"
+      },
+      {
+        "class": "jack",
+        "title": "Jack Ma",
+        "text": "„Blockchain-Technologie könnte unsere Welt mehr verändern, als die Menschen glauben.“"
+      },
+      {
+        "class": "eric",
+        "title": "Eric Schmidt",
+        "text": "„Bitcoin ist eine bemerkenswerte kryptographische Leistung und die Fähigkeit, etwas zu schaffen, das in der digitalen Welt nicht duplizierbar ist, hat enormen Wert.“"
+      },
+      {
+        "class": "bill",
+        "title": "Bill Gates",
+        "text": "„Bitcoin ist eine Techno-Tour de Force. Bitcoin ist besser als Devisen“\n\nDurch die Blockchain entfällt die Notwendigkeit eines externen Vermittlers, wie beispielsweise einer Bank."
+      },
+      {
+        "class": "pitbull",
+        "title": "Pitbull",
+        "text": "Der Rap-Künstler Pitbull hat angekündigt, dass sein neuestes Projekt ein internationaler Blockchain-Codierungswettbewerb sein wird, der die Musikindustrie erschüttern soll."
+      },
+      {
+        "class": "lionel",
+        "title": "Lionel Messi",
+        "text": "„Ich bin normalerweise damit beschäftigt, die Verteidigung zu dezentralisieren, und nachdem ich mich tiefer in Blockchain und dezentrale Systeme vertieft habe, freue ich mich, Botschafter bei SIRIN LABS zu werden, um die Blockchain mit ihrem zukünftigen Betriebssystem für Smartphones freundlicher zu gestalten.“"
+      },
+      {
+        "class": "mel",
+        "title": "Mel B",
+        "text": "„Ich liebe es, wie neue Technologien unser Leben einfacher machen, und das ist spannend für mich. Bitcoin vereint meine Fans auf der ganzen Welt mit einer einzigen Währung.“"
+      },
+      {
+        "class": "johnny",
+        "title": "Johnny Depp",
+        "text": "Johny Depp kooperiert angeblich mit der blockchainbasierten Content-Sharing-Plattform TaTaTu. Der Schauspieler wird über seine Produktionsfirma Infinitum Nihil an der Partnerschaft teilnehmen."
+      }
+    ],
+    "blue_block": [
+      "... darüber können Sie in den Medien auf der ganzen Welt lesen...",
+      ".... und selbst die normalen Menschen haben ein Vermögen damit verdient!"
+    ],
+    "news": [
+      {
+        "class": "first-article",
+        "title": "Jeder wird unglaublich reich und du bist es nicht.",
+        "description": [
+          "Vor kurzem wurde der Gründer von einer Sache namens Ripple kurzzeitig reicher als Mark Zuckerberg. An einem anderen Tag gründete ein anonymer Spender eine 86 Millionen Dollar Bitcoin-Fortune Wohltätigkeitsorganisation namens Pineapple Fund.",
+          "Ein Tesla wurde mit einem BLOCKHN-Kennzeichen gesichtet. Es gibt eine Flut von Menschen, die Bitcoin mit ihren Kreditkarten kaufen wollen. Nachdem die Long Island Iced Tea Company bekannt gab, dass sie sich zu einer Blockchain entwickeln würde, stiegen ihre Aktien an einem Tag um 500 Prozent.",
           ""
-        ]
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html"
+      },
+      {
+        "class": "second-article",
+        "title": "Bitcoin übersteigt 9.000 EUR und die Krypto-Rallye schlägt vernichtend Aktien, Anleihen, Gold und Öl.",
+        "description": [
+          "Der Preis für Bitcoin stieg über 9.000 EUR und übertraf damit in diesem Jahr die traditionellen Anlageformen bei weitem.",
+          "Bitcoin erreichte am Montag 9.396,33 EUR, ein 13-Monatshoch, laut CoinDesk, einer Research-Seite. Während Aktien, Anleihen, Gold und Öl in diesem Jahr alle im Aufwind sind, übertrifft die Bitcoin Rallye sie alle. Die Preise für Bitcoin und konkurrierende digitale Währungen sind im vergangenen Jahr eingebrochen.",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.wsj.com/articles/bitcoin-tops-9-000-as-crypto-rally-trounces-stocks-bonds-gold-and-oil-11560765681"
+      },
+      {
+        "class": "third-article",
+        "title": "Facebook profitiert, wenn der Markt herausfindet, dass die Krypto-Chance vielversprechend ist.",
+        "description": [
+          "Die Facebook Inc. (FB) Aktie steigt nach oben, während der Markt auf ein Whitepaper über das heiß erwartete Angebot einer Kryptowährung des Unternehmens am Dienstag, den 18. Juni, wartet.",
+          "Die Aktien des kalifornischen Unternehmens Menlo Park stiegen vor der Eröffnung am Montag um fast 2% und vergrösserten die Gewinne für den Monat Juni, nachdem Facebook, das eine Holding von Jim Cramer's Action Alerts PLUS gemeinnütziger Stiftung ist, ein ungünstiges Ende für den Monat Mai verzeichnet hatte.",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://realmoney.thestreet.com/investing/stocks/facebook-stock-gains-as-market-finds-crypto-opportunity-intriguing-14992789"
+      },
+      {
+        "class": "fourth-article",
+        "title": "Der Analyst, der Bitcoins Tiefstand und aktuellen Kurs vorhergesagt hat, sagt 16.000 EUR im Oktober voraus.",
+        "description": [
+          "Ein anonymer Analyst, der bereits erfolgreich vorhergesagt hat, dass Bitcoin bis Juli 2019 einen Wert von 9.200 EUR erreichen würde, geht nun davon aus, dass Bitcoin bis Oktober 2019 16.000 EUR erreichen wird. Der Analyst bestätigte seine Prognose, dass BTC bis Juli 2019 9.200 US-Dollar erreichen würde, nachdem er seine Analyse bereits im Januar 2019 veröffentlicht hatte.",
+          "Der Analyst beginnt mit der Feststellung, dass wir uns bereits in einem Aktienboom befinden - aber denken Sie daran, dass er dies am 21.01.19 gepostet hat -, so dass er bereits sehr früh im Jahr bemerkt hatte, dass sich der Aktienboom entwickelt.",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://cryptopotato.com/the-analyst-who-predicted-bitcoins-bottom-current-price-says-16k-in-october/"
+      },
+      {
+        "class": "fifth-article",
+        "title": "Russland‘s Zentralbank erwägt die Einführung einer digitalen Währung",
+        "description": [
+          "Der Leiter der russischen Zentralbank hat gesagt, dass die Institution eines Tages ihre eigene digitale Währung einführen könnte.",
+          "Vorsitzende Elvira Nabiullina sagte auf einer Studentenkonferenz, dass ein solches Projekt \"nicht sofort realisiert werden kann\" , aber verschiedene Zentralbanken, darunter die Bank von Russland, die Möglichkeit untersuchen, berichtete TASS am Samstag.",
+          "Der Schlüssel zum Nutzen einer digitalen Währung der Zentralbank (CBDC), sagte sie, ist, dass die Technologie \"Zuverlässigkeit und Kontinuität\" gewährleisten muss.\" \"Technologien müssen ausgereift sein, einschließlich Technologien dezentraler Register,\" sagte Nabiullina."
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.coindesk.com/russias-central-bank-is-considering-launching-a-digital-currency"
+      },
+      {
+        "class": "six-article",
+        "title": "Krypto-Markt zielt auf 300 Milliarden EUR Obergrenze: Bitcoin Cash, EOS, TRX, ADA Analyse",
+        "description": [
+          "Betrachtet man die Stunden-Charts mit den Börsenwerten aller Kryptowährungen, so gab es eine starke Aufwärtsbewegung, nachdem ein Durchbruch über die Langzeitwerte von 255,0 Mrd. EUR und 260,0 Mrd. EUR erzielt wurde. Der Börsenwert überschritt sogar das Niveau von 270,0 Mrd. EUR und tastete kürzlich die 278,0 Mrd. EUR-Zone an. Er korrigierte sich nach unten, aber das Niveau von 264,0 Mrd. EUR war eine starke Unterstützung. Die aktuelle Kursentwicklung ist positiv, was auf weitere Gewinne über den Niveaus von 275,0 Mrd. EUR und 280,0 Mrd. EUR schließen lässt. Wenn alles gut geht, könnte der Krypto-Markt in den nächsten Tagen sogar das Niveau von 300,00 Mrd. EUR erreichen. Daher sind weitere Gewinne bei Bitcoin, ETH, XRP, TRX, ADA, Bitcoin Cash, Litecoin, EOS, Stellar, IOTA, ICX, WAN und anderen Altcoins möglich.",
+          "",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.newsbtc.com/2019/06/17/crypto-market-targets-300-billion-cap-bitcoin-cash-eos-trx-ada-analysis/"
+      },
+      {
+        "class": "seven-article",
+        "title": "Das ist Erik Finman, der jugendliche Bitcoin-Millionär",
+        "description": [
+          "Erik Finman ist einer der jüngsten Bitcoin-Millionäre der Welt - eine Leistung, mit der er gerne prahlt. Der Instagram-Feed des 19-Jährigen ist voll von protzigen Fotos von ihm, wie er aus Privatjets steigt oder auf Betten liegt, die mit Geld bedeckt sind und Bildunterschriften wie diese tragen: “Bargeld ist so wertlos im Vergleich zu Bitcoin, so dass ich darauf schlafe...",
+          "",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.theguardian.com/technology/2018/jun/13/meet-erik-finman-the-teenage-bitcoin-millionaire"
+      },
+      {
+        "class": "eight-article",
+        "title": "Zwei gute Freunde, die 2.000 EUR pro Tag verdienen, indem sie mit Kryptowährung handeln",
+        "description": [
+          "Zwei gute Freunde, die erst vor wenigen Monaten mit dem Handel mit Kryptowährungen begannen, sagen, dass sie noch vor Ende des Jahres Millionäre sein werden, nachdem sie mit nur 5.000 EUR begonnen haben.",
+          "Daniel Colosi, 31. und Stephen Lenoci, 34, die beide in Sidney's Vorort Bondi zu Hause sind, sagen, dass sie die mysteriöse neue Welt des Online-Geldes eine Weile beobachtet hatten.",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.dailymail.co.uk/news/article-5272869/Bitcoin-investors-say-theyll-millionaires-2019.html"
+      },
+      {
+        "class": "nine-article",
+        "title": "Treffen Sie den Mann, der die Welt mit 25 Millionen EUR an Bitcoin-Gewinnen bereist",
+        "description": [
+          "Herr Smith, der mich bat, seinen richtigen Namen zu verbergen, bereist seit vier Jahren die Welt mit einem ultra-luxuriösem Stil. Er fliegt nur erstklassig, wohnt ausschließlich in 5-Sterne-Suiten und hat seit Thanksgiving nicht mehr gekocht. In den letzten dreißig Tagen besuchte er Singapur, New York City, Las Vegas, Monaco, Moskau, zurück nach New York City, Zürich und jetzt Hongkong. \"Niemals einen langweiligen Moment\", sagt er und hebt sein Glas Champagner in einem Gatsby-ähnlichen Gruß. Dann erzählte er seine Geschichte.",
+          "",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/#2a6c48762615"
+      },
+      {
+        "class": "ten-article",
+        "title": "Der 25-Jährige verdiente ein Vermögen mit Bitcoin - jetzt reist er um die Welt",
+        "description": [
+          "Jeremy Gardner kehrte von einer Safari in Südafrika zurück - wo er zum AfrikaBurn, einem regionalen Burning Man Festival, geflogen ist - als er wieder Handy-Empfang hatte. Er überprüfte Twitter, wo er anderen Bitcoin-Beobachtern folgt, um zu sehen, was seine Investitionen machen.",
+          "\"Ich sah, dass Bitcoin um 2.500 EUR gestiegen war - alle Krypto-Assets waren im Wert explodiert,\" sagte Gardner einem Business Insider. “Und plötzlich hatte sich mein Nettovermögen in fünf Tagen verdoppelt. Das war für mich verrückt.“",
+          ""
+        ],
+        "button": "Den ganzen Artikel lesen ›",
+        "link": "http://nullrefer.com/?https://www.businessinsider.com/jeremy-gardner-bitcoin-entrepreneur-30-2017-8"
       }
     ],
-    "blue_btn": "Hier registrieren ",
-    "trade_title": "Der Trend spricht für sich",
-    "trade_description": "Da immer mehr Investoren wieder am Goldmarkt interessiert sind, beginnen die Preise in die Höhe zu schießen. Das liegt daran, dass Gold mehr Sicherheit bietet als jede andere Ware. In einer Welt in der Finanzturbulenzen immer mehr vorkommen, ist Sicherheit schwer zu finden. Sehen Sie in der unteren Grafik wie sehr der Goldpreis in den letzten 12 Monaten gestiegen ist.",
-    "famous_title": "Berühmte Namen im Handel",
-    "famous_description": "Es gibt viele große Namen im Handel. Hier sind ein paar der Dinge, die die berühmtesten Händler sagen.",
-    "famous_body": [
-      {
-        "img": "elder",
-        "name": "Alexander Elder",
-        "text": "Sie können frei sein. Sie können überall auf der Welt leben und arbeiten. Sie können unabhängig vom Trott leben und niemandem untergeben sein."
-      },
-      {
-        "img": "seykota",
-        "name": "Ed Seykota",
-        "text": "Gewinn oder Verlust, jeder bekommt das, was er aus dem Markt ziehen möchte. Manche Leute scheinen gern zu verlieren, also gewinnen sie, indem sie Geld verlieren."
-      },
-      {
-        "img": "oneil",
-        "name": "William O’Neil",
-        "text": "Was der Mehrheit zu hoch und riskant erscheint, steigt normalerweise, und was niedrig und billig erscheint, fällt normalerweise."
-      },
-      {
-        "img": "buffet",
-        "name": "Warren Buffett",
-        "text": "Sie müssen kein Genie sein. Investieren ist kein Spiel, bei dem der Typ mit dem IQ von 160 den Typen mit dem IQ von 130 schlägt."
-      }
+    "your_turn": "Und jetzt sind Sie dran!",
+    "join_now_title": [
+      "Jetzt",
+      "registrieren"
     ],
-    "benefits_title": "Online Trading Benefits",
-    "benefits_subtitle": "Es ist die beste Weise ihr Geld zu investieren",
-    "benefits_information": [
-      {
-        "img": "accurate",
-        "title": "Präzises Handeln",
-        "description": "Nutzen Sie Golden PROFIT'S live Trading-Updates um bei jedem Handel die richtige Entscheidung zu treffen."
-      },
-      {
-        "img": "cutting",
-        "title": "Spitzentechnologie",
-        "description": "Golden PROFIT nutzt die modernste Trading Engine, um sicherzustellen dass alle Ihre Geschäfte reibungslos und effizient über die Bühne gehen, und dass Sie den besten verfügbaren Schutz haben."
-      },
-      {
-        "img": "trading",
-        "title": "Vertrauenswürdige Geschäfte",
-        "description": "Golden PROFIT ist führend im weltweiten Online-Handel und wurde global für ihr intuitives Design und eine benutzerfreundliche Plattform anerkannt."
-      }
+    "join_now_subtitle": "Profit Revolution steht kurz davor, die Welt im Sturm zu erobern, und das ist Ihre Chance, früh einzusteigen.",
+    "join_now_text": [
+      "Die Wirtschaftssysteme der Welt stehen vor großen Veränderungen. Banken verschwinden von unseren Straßen und die Welt wird digital. Profit-Revolution wird es Ihnen ermöglichen, ",
+      "heute zu handeln",
+      " und mit Kryptowährungen ",
+      "zu verdienen.",
+      "",
+      "Dank modernster Technologie und einer revolutionären neuen Verdienstmöglichkeit hat die Kryptowährung Profit Revolution bereits viele bekannte Gesichter angezogen. Von Kanye bis Madonna, von Bill Gates bis Richard Branson profitieren bereits die reichsten Stars der Welt. Jetzt sind Sie dran."
     ],
-    "table_title": "Online-Händler",
-    "table_head": [
-      "Nutzer",
-      "Zeit",
-      "Angemeldet"
+    "join_profit_title": "Nehmen Sie noch heute an der Profit-Revolution teil",
+    "join_profit_step1": [
+      "Schritt 1",
+      "Registrieren",
+      "Sie müssen nicht wochenlang warten, um bestätigt zu werden. Geben Sie einfach Ihre Daten ein und Sie werden noch heute freigeschaltet."
     ],
-    "table_inner": [
-      {
-        "name": "J******",
-        "img": "register"
-      },
-      {
-        "name": "K******",
-        "img": "register"
-      },
-      {
-        "name": "S******",
-        "img": "register"
-      },
-      {
-        "name": "M******",
-        "img": "register"
-      },
-      {
-        "name": "A******",
-        "img": "register"
-      },
-      {
-        "name": "L******",
-        "img": "register"
-      },
-      {
-        "name": "N******",
-        "img": "register"
-      },
-      {
-        "name": "B******",
-        "img": "register"
-      },
-      {
-        "name": "O******",
-        "img": "register"
-      },
-      {
-        "name": "P******",
-        "img": "register"
-      },
-      {
-        "name": "A******",
-        "img": "register"
-      },
-      {
-        "name": "G******",
-        "img": "register"
-      }
+    "join_profit_step2": [
+      "Schritt 2",
+      "Investieren",
+      "Sie erhalten einen Anruf von einem erfahrenen Berater, der Ihnen alle unglaublichen Insider-Geheimnisse verrät."
     ],
-    "faq_title": "FAQ",
-    "faq_question": [
-      {
-        "question": "Wie viel Geld kann ich verdienen?",
-        "answer": "Ihr Profit hängt von Ihren Entscheidungen und Ihrem Input ab. Wer seine Zinsen in höherwertige Geschäfte investiert, kann deutlich mehr verdienen, als jene die Trades zu niedrigeren Preisen platzieren. Es kommt jedoch ganz darauf an, wie Sie handeln wollen."
-      },
-      {
-        "question": "Brauche ich Erfahrung als Börsen-Makler?",
-        "answer": "Golden PROFIT wurde für jedes Trader-Niveau entwickelt und kann Ihnen die Fähigkeiten und das Vertrauen vermitteln, die Sie benötigen, um Trades auf hohem Niveau zu erzielen. Die Plattform liefert die nötigen Informationen damit Sie gleich anfangen können, egal ob Sie ein Anfänger oder erfahrener Händler sind."
-      },
-      {
-        "question": "Was kostet es mich?",
-        "answer": "Die Nutzung unserer Plattform ist völlig kostenlos. Sie brauchen nur Ihre 250€ Startkapital, um zu investieren und zu handeln."
-      },
-      {
-        "question": "Wie viele Mitglieder gibt es?",
-        "answer": "Weltweit nutzen 250.000 Mitglieder unsere Dienste."
-      },
-      {
-        "question": "Welche Firmen kann ich nutzen?",
-        "answer": "Sie können mit allen börsennotierten Unternehmen aller Börsen der Welt handeln. Wenn Sie von ihnen gehört haben, können Sie mit ihnen handeln."
-      }
+    "join_profit_step3": [
+      "Schritt 3",
+      "Verdienen",
+      "Sobald Sie sich registriert und mit einem Experten gesprochen haben, sind Sie bereit, mit dem Verdienen zu beginnen. So einfach ist das!"
     ],
-    "second_form": "Beginnen Sie jetzt Ihr neues Leben",
+    "last_title": [
+      "Jetzt",
+      "Nehmen Sie noch heute an der Profit-Revolution teil"
+    ],
+    "doted_block": [
+      "Investieren ist der einfachste Weg, um Ihr zukünftiges Einkommen zu sichern. Jetzt können Sie bequem von zu Hause aus Geld verdienen mit dem Erfolg von Kryptowährungen. Alles, was Sie tun müssen, ist, den Autotrader zu starten.",
+      "Registrieren Sie sich noch heute, um Ihre erste Investition zu tätigen.",
+      "Zahlen Sie mindestens 250$ auf Ihr Konto ein.",
+      "Erhalten Sie Ihren kostenlosen Anruf von einem Experten",
+      "Fangen Sie an zu verdienen!"
+    ],
     "disclaimer": [
       "WICHTIG: ",
       "Erträge und Haftungsausschluss",
-      "Die Erträge und Einnahmen von Golden Profit, (ab jetzt „diese Website“) dienen nur als Beispiele potentieller Einnahmen. Der Erfolg der Personen in den Erfahrungsberichten und anderen Beispielen sind außergewöhnliche Ergebnisse und daher nicht als Garantie dafür gedacht, dass Sie oder andere dieselben Ergebnisse erzielen werden. Individuelle Ergebnisse können abweichen und hängen vollständig davon ab wie Sie Golden Profit nutzen.",
+      "Die Erträge und Einnahmen von Profit Revolution, (ab jetzt „diese Website“) dienen nur als Beispiele potentieller Einnahmen. Der Erfolg der Personen in den Erfahrungsberichten und anderen Beispielen sind außergewöhnliche Ergebnisse und daher nicht als Garantie dafür gedacht, dass Sie oder andere dieselben Ergebnisse erzielen werden. Individuelle Ergebnisse können abweichen und hängen vollständig davon ab wie Sie Profit Revolution nutzen.",
       "Diese Website ist nicht für Ihre Handlungen verantwortlich. Sie tragen die alleinige Verantwortung für Ihre Handlungen und Entscheidungen, wenn Sie Produkte und Dienstleistungen nutzen, und sollten daher immer Vorsicht und gebührende Sorgfalt walten lassen. Sie stimmen zu, dass diese Webseite in keinster Weise Ihnen gegenüber für die Ergebnisse der Verwendung unserer Produkte und Dienstleistungen haftbar ist. In unseren „Geschäftsbedingungen“ können Sie die Einzelheiten zum Thema Haftbarkeit und anderer Einschränkungen nachlesen.",
-      "Diese Website erhält eine Vergütung für die Produkte und Dienstleistungen, die sie Ihnen empfiehlt. Sollten Sie nicht wünschen, dass diese Website eine Vergütung für Empfehlungen erhält, raten wir Ihnen zu einer Online-Suche nach einem ähnlichen, unabhängigen Produkt.",
-      "*Erfahrungsberichte:",
-      "Alle Figuren, Informationen und Ereignisse auf dieser Website sind fiktiv. Jegliche Ähnlichkeit zu aktuellen Ereignissen oder Personen, lebend oder tot, ist reiner Zufall."
+      "Diese Website erhält eine Vergütung für die Produkte und Dienstleistungen, die sie Ihnen empfiehlt. Sollten Sie nicht wünschen, dass diese Website eine Vergütung für Empfehlungen erhält, raten wir Ihnen zu einer Online-Suche nach einem ähnlichen, unabhängigen Produkt."
     ],
     "bottom_info": [
       "Wir verwenden Cookies, um zu verstehen, wie Sie unsere Website benutzen, und um Ihr Erlebnis zu verbessern. Dies schließt personalisierte Inhalte und Werbung ein. Indem Sie unsere Website weiterverwenden, stimmen Sie unserer Cookie-Nutzung, unserer überarbeiteten Datenschutzrichtlinie und unseren Nutzungsbedingungen zu. Diese Website ist ein Advertorial. ",
       "Weitere Informationen"
-    ]
+    ],
+    "menu_block": [
+      "Wie funktioniert es?",
+      "Berühmte Persönlichkeiten über Krypto",
+      "Krypto in den Medien",
+      "Normale Menschen sind reich geworden.",
+      "Jetzt anmelden"
+    ],
+    "modal_title": "Moment noch!",
+    "modal_sub": "Bevor Sie gehen ...",
+    "modal_text1": "Die Märkte bewegen sich schnell. Verpassen Sie nicht Ihre Chance, vom Steigen und Fallen in jüngster Zeit zu profitieren.",
+    "modal_text2": "Melden Sie sich heute an und werden Sie einer von Tausenden, die ihr Leben dank Onlinehandel verändern."
   },
   "ru": {
     "header_title": "– Реклама –",

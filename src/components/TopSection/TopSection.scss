@@ -1,6 +1,5 @@
 @import './Header/Header.scss';
 @import './Regform/Regform.scss';
-@import './Ticker/Ticker.scss';
 
 .TopSection {
     width: 100%;
@@ -255,6 +254,7 @@
             text-align: center;
         }
         .text {
+            max-width: 200px;
             p {
                 color: #333333;
                 font-size: .8em;
@@ -278,103 +278,6 @@
             height: 1.875rem;
             width: auto;
             margin: .25rem .5rem;
-        }
-    }
-}
-
-.modalscreen {
-    display: none;
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    background-color: #00000080;
-    z-index: 20;
-    vertical-align: middle;
-
-    & .close {
-        width: 1.2vw;
-        height: 1.2vw;
-        float: right;
-        display: block;
-        background: #d65000; 
-        border-radius: 50%;
-        font-size: 0.96vw;
-        cursor: pointer;
-        margin-left: auto;
-        filter: brightness(50%);
-
-        @media (max-width: 768px) {
-            width: 6.2vw;
-            height: 6.2vw;
-            font-size: 8vw;
-            line-height: 0.77;
-        }
-
-        &:hover {
-            filter: brightness(100%);
-        }
-    }
-
-    & .modal {
-        font-family: 'Montserrat', sans-serif;
-        text-align: center;
-        color: #fff;
-        display: block;
-        padding: 1.4vw;
-        width: 28%;
-        height: auto;
-        margin: auto;
-        background: url('./Header/bgr.jpg') no-repeat center center;
-        background-size: cover;
-
-        @media (max-width: 1200px) {
-            width: 38%;
-        }
-
-        @media (max-width: 768px) {
-            padding: 3.4vw;
-            width: 90%;
-        }
-
-        & .title {
-            margin-top: 2vw;
-            font-weight: 700;
-            color: #d65000;
-            font-size: 3.6vw;
-
-            @media (max-width: 1200px) {
-                margin-top: 4vw;
-                font-size: 5.6vw;
-            }
-    
-            @media (max-width: 768px) {
-                margin-top: 8vw;
-                font-size: 12.6vw;
-            }
-        }
-
-        & .subtitle {
-            font-size: 1.72vw;
-            margin-bottom: 1vw;
-
-            @media (max-width: 1200px) {
-                font-size: 3.6vw;
-            }
-    
-            @media (max-width: 768px) {
-                font-size: 7.6vw;
-            }
-        }
-
-        & p {
-            font-family: 'Open Sans', sans-serif;
-            font-size: 22px;
-
-            @media (max-width: 768px) {
-                font-size: 3.6vw;
-                width: 90%;
-                margin: 3vw auto;
-            }
         }
     }
 }
@@ -454,4 +357,101 @@
     opacity: 1;
     pointer-events: all;
     transform: translateY(0);
+}
+.modalscreen {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #00000080;
+    z-index: 6000;
+    vertical-align: middle;
+    @media (max-height: 850px) {
+        overflow: scroll;
+    }
+
+    & .close {
+        width: 1.2vw;
+        height: 1.2vw;
+        float: right;
+        display: block;
+        background: #f5d33c;
+        color: white;
+        border-radius: 50%;
+        font-size: 0.96vw;
+        cursor: pointer;
+        margin-left: auto;
+        filter: brightness(50%);
+        line-height: 1.2;
+        @media (max-width: 768px) {
+            width: 6.2vw;
+            height: 6.2vw;
+            font-size: 8vw;
+            line-height: 0.77;
+        }
+        &:hover {
+            filter: brightness(100%);
+        }
+    }
+
+    & .modal {
+        text-align: center;
+        color: #fff;
+        display: block;
+        padding: 15px;
+        width: 600px;
+        background-image: url("./images/mesh.png");
+        background-size: cover;
+        background-color: #4d4d4d;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+        border: 1px solid rgba(0,0,0,0.2);
+        border-radius: 6px;
+        position: relative;
+        z-index: 9999;
+        height: auto;
+        margin: 20px auto;
+
+        @media (max-width: 768px) {
+            padding: 3.4vw;
+            width: 90%;
+        }
+
+        & .title {
+            color: #f5d33c;
+            font-size: 4em;
+            margin: 0;
+            font-family: "Montserrat",sans-serif;
+            font-weight: 900;
+            line-height: 1.1;
+        }
+        & .subtitle {
+            color: #f5d33c;
+            font-size: 2em;
+            margin-bottom: .5em;
+            font-family: "Montserrat",sans-serif;
+            font-weight: 900;
+            line-height: 1.1;
+        }
+        & p {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 1.25rem;
+            color: white;
+            margin: 0 0 1em!important;
+            line-height: 1.4;
+        }
+    }
+    .card {
+        padding: 1rem;
+        border-radius: 6px;
+        .checkbox_text {
+            text-align: left;
+        }
+    }
+    .FirstRegform {
+        .inputfield {
+            background-image: none;
+            font-size: 1em;
+            padding: 10px 20px 10px 40px;
+            height: auto;
+        }
+    }
 }

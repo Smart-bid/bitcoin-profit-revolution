@@ -17,8 +17,11 @@
       line-height: .85;
       display: block;
       text-transform: uppercase;
+      @media (max-width: 767px) {
+        font-size: 4.5rem;
+      }
       @media (max-width: 400px) {
-        font-size: 5rem;
+        font-size: 2.5rem;
       }
     }
     .subheadline {

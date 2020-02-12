@@ -9,6 +9,9 @@
     font-weight: 900;
     line-height: 1.1;
     text-align: center;
+    @media (max-width: 400px) {
+      font-size: 2rem;
+    }
   }
   .cards--grid-3 {
     display: grid;

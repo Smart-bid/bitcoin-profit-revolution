@@ -15,7 +15,8 @@ import trust from './images/Trust.png'
 
 export default class TopSection extends Component {
     constructor(props) {
-        super(props)
+        super(props);
+        this.state = {showmodal: false}
         this.regPanel = React.createRef();
     }
 
@@ -26,7 +27,14 @@ export default class TopSection extends Component {
             left: 0,
             behavior: 'smooth'
         })
+    }
 
+    handleClose = () => {
+        this.setState({showmodal: false})
+    }
+
+    componentDidMount() {
+        setTimeout(() => this.setState({showmodal: true}), 2500)
     }
 
 
@@ -101,6 +109,30 @@ export default class TopSection extends Component {
         ];
         return (
             <div className='TopSection'>
+                <div className="modalscreen" style={{display: (this.state.showmodal) ? 'block' : 'none'}}>
+                    <div className="modal">
+                        <div className="close" onClick={this.handleClose}>×</div>
+                        <div className="title">{languageManager.modal_title}</div>
+                        <div className="subtitle">{languageManager.modal_sub}</div>
+                        <p>{languageManager.modal_text1}</p>
+                        <p>{languageManager.modal_text2}</p>
+                        <Regform {...this.props}
+                                 loadingLogo={{
+                                     className: 'loading',
+                                     source: logo
+                                 }}
+                                 material={true}
+                                 formSteps={steps}
+                                 responseError={{
+                                     className: 'resError',
+                                     button: {
+                                         className: 'button_forward',
+                                         text: 'OK'
+                                     }
+                                 }}
+                        />
+                    </div>
+                </div>
                 <div className={`menu-block-hidden ` + this.props.modalClass}>
                     <button onClick={this.props.handleHide} className="menuClose">×</button>
                     <ul>
@@ -225,15 +257,13 @@ export default class TopSection extends Component {
                                 <div className="step">
                                     <p className="number">2</p>
                                     <div className="text">
-                                        <p>{languageManager.instruction[1].text[0]}</p>
-                                        <p><span>{languageManager.instruction[1].text[1]}</span></p>
+                                        <p>{languageManager.instruction[1].text[0]} <span>{languageManager.instruction[1].text[1]}</span> {languageManager.instruction[1].text[2]}</p>
                                     </div>
                                 </div>
                                 <div className="step">
                                     <p className="number">3</p>
                                     <div className="text">
-                                        <p>{languageManager.instruction[2].text[0]} <span>{languageManager.instruction[2].text[1]}</span></p>
-                                        <p>{languageManager.instruction[2].text[2]}</p>
+                                        <p>{languageManager.instruction[2].text[0]} <span>{languageManager.instruction[2].text[1]}</span> {languageManager.instruction[2].text[2]}</p>
                                     </div>
                                 </div>
                             </div>
